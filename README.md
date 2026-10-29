@@ -55,35 +55,41 @@ Add a clean exported dashboard image named `dashboard_preview.png`, then uncomme
 | Delivered Revenue | Approximately 16.86M (70.01%) |
 | Payment Success Rate | 82.48% (denominator requires validation) |
 
-Andhra Pradesh — Category Performance
 
-Category| Orders Placed (Reported)| Total Sales
-Electronics| 11,767| 3,431,342.63
-Fashion| 9,057| 1,456,925.26
-Home & Kitchen| 8,035| 1,306,459.33
-Beauty| 5,444| 885,545.79
-Books| 4,524| 719,346.70
-Sports| 3,599| 580,081.95
+### Andhra Pradesh — Category Performance
 
-Telangana — Category Performance
+| Category | Orders Placed (Reported) | Total Sales |
+|---|---:|---:|
+| Electronics | 11,767 | 3,431,342.63 |
+| Fashion | 9,057 | 1,456,925.26 |
+| Home & Kitchen | 8,035 | 1,306,459.33 |
+| Beauty | 5,444 | 885,545.79 |
+| Books | 4,524 | 719,346.70 |
+| Sports | 3,599 | 580,081.95 |
 
-Category| Orders Placed (Reported)| Total Sales
-Electronics| 3,808| 1,087,314.18
-Fashion| 2,968| 469,954.57
-Home & Kitchen| 2,685| 427,613.33
-Beauty| 1,822| 287,600.90
-Books| 1,441| 233,842.10
-Sports| 1,152| 186,181.08
+### Telangana — Category Performance
 
-Additional Regional Finding
+| Category | Orders Placed (Reported) | Total Sales |
+|---|---:|---:|
+| Electronics | 3,808 | 1,087,314.18 |
+| Fashion | 2,968 | 469,954.57 |
+| Home & Kitchen | 2,685 | 427,613.33 |
+| Beauty | 1,822 | 287,600.90 |
+| Books | 1,441 | 233,842.10 |
+| Sports | 1,152 | 186,181.08 |
 
-Metric| Reported Value
-Hyderabad Electronics Revenue| 618,000 (requires validation against the final SQL output)
+### Additional Regional Finding
 
-Validation note: Regional order counts are copied from the current SQL result screenshots. Verify them using "COUNT(DISTINCT o.order_id)" if the query joins orders to multiple order-item rows. Confirm the sales calculation and payment success rate denominator before publishing.
-Discount AOV values previously reported were 443.12 at 0%, 426.85 at 5%, 405.09 at 10%, 385.31 at 15%, and 365.43 at 20%. This is an association, not proof of causation.
+| Metric | Reported Value |
+|---|---|
+| Hyderabad Electronics Revenue | 618,000 (reported; requires validation against final SQL output) |
 
-The inventory analysis previously flagged Yoga Mat Classic (stock 0; 76 historical delivered units sold) and Headphones Pro (stock 5; 81 historical delivered units sold). Treat these as possible replenishment signals, not demand forecasts.
+**Validation note:** Regional order counts should be verified using `COUNT(DISTINCT o.order_id)` when joining orders to order items. Confirm the revenue calculation and payment success rate denominator before publishing.
+
+The discount AOV figures reported earlier were 443.12 at 0%, 426.85 at 5%, 405.09 at 10%, 385.31 at 15%, and 365.43 at 20%. These values show an association, not proof of causation.
+
+The inventory analysis flagged Yoga Mat Classic (stock: 0; 76 historical delivered units sold) and Headphones Pro (stock: 5; 81 historical delivered units sold). Treat these as possible replenishment signals, not demand forecasts.
+
 
 ## SQL validation notes
 Before publishing, check:
