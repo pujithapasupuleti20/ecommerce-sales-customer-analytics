@@ -42,17 +42,18 @@ Add a clean exported dashboard image named `dashboard_preview.png`, then uncomme
 
 ## Key Business Metrics and Regional Analysis
 
-Overall Business Metrics
+### Overall Business Metrics
 
-Metric| Reported Value
-Total Orders| 60,000
-Total Order Revenue| Approximately 24.09M
-Average Order Value (AOV)| Approximately 401.45
-Delivered Orders| 41,960 (69.93%)
-Cancelled Orders| 3,689 (6.15%)
-Returned Orders| 2,374 (3.96%)
-Delivered Revenue| Approximately 16.86M (70.01%)
-Payment Success Rate| 82.48% (denominator requires validation)
+| Metric | Reported Value |
+|---|---|
+| Total Orders | 60,000 |
+| Total Order Revenue | Approximately 24.09M |
+| Average Order Value (AOV) | Approximately 401.45 |
+| Delivered Orders | 41,960 (69.93%) |
+| Cancelled Orders | 3,689 (6.15%) |
+| Returned Orders | 2,374 (3.96%) |
+| Delivered Revenue | Approximately 16.86M (70.01%) |
+| Payment Success Rate | 82.48% (denominator requires validation) |
 
 Andhra Pradesh — Category Performance
 
