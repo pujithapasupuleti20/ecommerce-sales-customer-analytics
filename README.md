@@ -40,7 +40,9 @@ The report includes KPI cards for Total Revenue, Total Orders, AOV, Delivered Ra
 Add a clean exported dashboard image named `dashboard_preview.png`, then uncomment:
 <![Power BI dashboard](outputs/output.png) -->
 
-Key Business Metrics and Regional Analysis
+## Key Business Metrics and Regional Analysis
+
+Overall Business Metrics
 
 Metric| Reported Value
 Total Orders| 60,000
@@ -77,8 +79,7 @@ Additional Regional Finding
 Metric| Reported Value
 Hyderabad Electronics Revenue| 618,000 (requires validation against the final SQL output)
 
-Validation note: Regional order counts are reproduced from the current SQL result screenshots. Verify them using "COUNT(DISTINCT o.order_id)" if the query joins orders to multiple order-item rows. Confirm the sales calculation and payment success rate denominator before presenting these figures as final business results.
-
+Validation note: Regional order counts are copied from the current SQL result screenshots. Verify them using "COUNT(DISTINCT o.order_id)" if the query joins orders to multiple order-item rows. Confirm the sales calculation and payment success rate denominator before publishing.
 Discount AOV values previously reported were 443.12 at 0%, 426.85 at 5%, 405.09 at 10%, 385.31 at 15%, and 365.43 at 20%. This is an association, not proof of causation.
 
 The inventory analysis previously flagged Yoga Mat Classic (stock 0; 76 historical delivered units sold) and Headphones Pro (stock 5; 81 historical delivered units sold). Treat these as possible replenishment signals, not demand forecasts.
