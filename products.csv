@@ -1,0 +1,2001 @@
+product_id,product_name,category,unit_price,brand,stock_quantity
+20001,Smartwatch Pro,Electronics,99.0,Brand C,18
+20002,Sneakers Classic,Fashion,99.0,Brand A,284
+20003,Dress Basic,Fashion,99.0,Brand E,358
+20004,Bedsheet,Home & Kitchen,99.0,Unknown,482
+20005,T-Shirt Classic,Fashion,99.0,Brand D,262
+20006,Fiction Book Classic,Books,99.0,Brand C,351
+20007,Mouse Basic,Electronics,99.0,Generic,68
+20008,Shampoo Pro,Beauty,99.0,Brand D,202
+20009,Jacket Pro,Fashion,99.0,Generic,77
+20010,Dress Plus,Fashion,99.0,Generic,456
+20011,Desk Lamp Classic,Home & Kitchen,99.0,Generic,288
+20012,Hair Serum Pro,Beauty,99.0,Brand D,176
+20013,Headphones Premium,Electronics,182.18,Brand E,258
+20014,Running Shoes Premium,Sports,99.0,Brand D,346
+20015,Desk Lamp Classic,Home & Kitchen,99.0,Generic,90
+20016,Exam Guide Basic,Books,99.0,Generic,131
+20017,Power Bank Basic,Electronics,99.0,Generic,44
+20018,Headphones Premium,Electronics,230.71,Brand A,5
+20019,Jacket Basic,Fashion,99.0,Brand C,431
+20020,Dress Plus,Fashion,99.0,Brand C,353
+20021,Mouse Premium,Electronics,139.73,Brand E,365
+20022,Handbag Basic,Fashion,99.0,Brand D,345
+20023,Cookware Set Classic,Home & Kitchen,99.0,Brand B,318
+20024,Smartwatch Classic,Electronics,165.26,Brand E,69
+20025,Sunscreen,Beauty,99.0,Generic,15
+20026,Fiction Book Basic,Books,99.0,Brand D,274
+20027,Smartwatch Pro,Electronics,215.02,Brand E,87
+20028,Desk Lamp Premium,Home & Kitchen,170.52,Brand C,468
+20029,Cricket Bat Plus,Sports,99.0,Generic,5
+20030,Badminton Racket Basic,Sports,99.0,Brand E,337
+20031,Storage Box Classic,Home & Kitchen,99.0,Generic,373
+20032,Cookware Set Premium,Home & Kitchen,99.0,Brand B,83
+20033,Keyboard Plus,Electronics,195.53,Generic,93
+20034,Handbag Classic,Fashion,99.0,Brand B,419
+20035,T-Shirt Pro,Fashion,99.0,Brand E,380
+20036,Mixer Grinder Basic,Home & Kitchen,99.0,Generic,85
+20037,T-Shirt Basic,Fashion,99.0,Generic,159
+20038,Exam Guide Plus,Books,197.38,Brand B,461
+20039,Keyboard,Electronics,206.78,Brand C,248
+20040,Fiction Book Basic,Books,99.0,Brand B,119
+20041,Laptop Pro,Electronics,99.0,Brand E,24
+20042,Storage Box Premium,Home & Kitchen,99.0,Brand D,484
+20043,Exam Guide Basic,Books,99.0,Brand D,361
+20044,Power Bank Plus,Electronics,99.0,Brand D,231
+20045,T-Shirt Pro,Fashion,99.0,Generic,43
+20046,Dumbbells Plus,Sports,99.0,Generic,29
+20047,Power Bank Basic,Electronics,99.0,Brand C,326
+20048,Laptop Pro,Electronics,123.77,Generic,181
+20049,Headphones Plus,Electronics,186.32,Brand A,147
+20050,T-Shirt Pro,Fashion,99.0,Brand A,117
+20051,Water Bottle Basic,Home & Kitchen,155.44,Brand B,465
+20052,Hair Serum Plus,Beauty,99.0,Brand E,491
+20053,Hair Serum Classic,Beauty,99.0,Brand D,448
+20054,Mouse Classic,Electronics,99.0,Brand E,234
+20055,Power Bank Premium,Electronics,99.0,Generic,281
+20056,Running Shoes Plus,Sports,99.0,Brand A,203
+20057,Bedsheet Plus,Home & Kitchen,99.0,Brand D,315
+20058,Mouse Classic,Electronics,305.84,Brand A,175
+20059,Badminton Racket Pro,Sports,99.0,Brand B,177
+20060,Cookware Set Classic,Home & Kitchen,99.0,Brand B,84
+20061,Moisturizer Basic,Beauty,102.88,Brand A,491
+20062,Desk Lamp Plus,Home & Kitchen,113.33,Generic,208
+20063,Bedsheet Plus,Home & Kitchen,155.65,Brand B,21
+20064,Power Bank Classic,Electronics,393.7,Brand B,336
+20065,Keyboard Pro,Electronics,128.77,Brand A,0
+20066,Sunglasses Classic,Fashion,99.0,Brand A,482
+20067,Cookware Set Premium,Home & Kitchen,99.0,Brand B,409
+20068,Keyboard Pro,Electronics,126.4,Brand C,234
+20069,Bedsheet Plus,Home & Kitchen,99.0,Brand B,464
+20070,Desk Lamp Plus,Home & Kitchen,99.0,Brand C,147
+20071,Keyboard Plus,Electronics,99.0,Brand E,113
+20072,Sunglasses Pro,Fashion,99.0,Brand A,429
+20073,Self Help Book Plus,Books,99.0,Brand A,320
+20074,Monitor Pro,Electronics,480.6,Brand E,218
+20075,Fiction Book Pro,Books,103.42,Brand A,369
+20076,Hair Serum Classic,Beauty,99.0,Brand D,386
+20077,Monitor Classic,Electronics,362.96,Brand C,397
+20078,Sunglasses,Fashion,124.89,Brand A,274
+20079,Desk Lamp Basic,Home & Kitchen,99.0,Brand D,272
+20080,Keyboard Pro,Electronics,100.88,Brand E,313
+20081,Self Help Book,Books,99.0,Brand D,196
+20082,Keyboard Premium,Electronics,171.51,Brand B,385
+20083,Hair Serum Premium,Beauty,99.0,Brand D,251
+20084,Power Bank Premium,Electronics,414.62,Brand D,133
+20085,Power Bank Classic,Electronics,188.95,Brand B,413
+20086,Children's Book Plus,Books,99.0,Brand A,140
+20087,Sunglasses Premium,Fashion,99.0,Generic,38
+20088,Storage Box,Home & Kitchen,99.0,Brand C,453
+20089,Mouse Plus,Electronics,133.28,Brand C,71
+20090,Laptop Plus,Electronics,140.03,Generic,289
+20091,Mouse Basic,Electronics,99.0,Generic,296
+20092,Desk Lamp Classic,Home & Kitchen,99.0,Brand B,62
+20093,Face Wash Pro,Beauty,99.0,Brand B,117
+20094,Yoga Mat,Sports,99.0,Brand A,217
+20095,Laptop Basic,Electronics,161.4,Brand E,268
+20096,T-Shirt Plus,Fashion,99.0,Brand B,80
+20097,Power Bank Classic,Electronics,138.06,Brand D,415
+20098,Perfume,Beauty,110.28,Brand A,91
+20099,Monitor Pro,Electronics,188.25,Brand A,296
+20100,Badminton Racket,Sports,99.0,Brand D,219
+20101,Sneakers Premium,Fashion,99.0,Brand B,31
+20102,Self Help Book Premium,Books,99.0,Brand D,124
+20103,Moisturizer Classic,Beauty,99.0,Brand D,130
+20104,Headphones Basic,Electronics,135.37,Brand B,433
+20105,Dumbbells Plus,Sports,99.0,Brand C,39
+20106,Smartwatch,Electronics,99.0,Brand D,486
+20107,T-Shirt Premium,Fashion,214.89,Brand E,351
+20108,Mouse Basic,Electronics,204.59,Brand E,156
+20109,Exam Guide Basic,Books,99.0,Generic,469
+20110,Smartwatch Pro,Electronics,158.42,Generic,152
+20111,Smartphone Basic,Electronics,99.0,Brand B,124
+20112,Power Bank,Electronics,165.77,Brand B,64
+20113,Face Wash Premium,Beauty,114.57,Brand B,193
+20114,Jeans,Fashion,124.46,Generic,131
+20115,Jeans Premium,Fashion,99.0,Brand A,61
+20116,Badminton Racket Premium,Sports,99.0,Brand C,250
+20117,Mixer Grinder Premium,Home & Kitchen,99.0,Brand B,407
+20118,Notebook Premium,Books,99.0,Brand B,224
+20119,Smartwatch Basic,Electronics,129.5,Brand D,256
+20120,Mouse Classic,Electronics,99.0,Generic,469
+20121,Face Wash Basic,Beauty,99.0,Brand A,5
+20122,Dress Basic,Fashion,99.0,Brand E,473
+20123,Shampoo Pro,Beauty,99.0,Brand A,171
+20124,Monitor,Electronics,99.0,Unknown,125
+20125,Moisturizer Classic,Beauty,99.0,Brand B,491
+20126,Dress,Fashion,99.0,Generic,428
+20127,Yoga Mat Classic,Sports,99.0,Brand D,430
+20128,Handbag,Fashion,99.0,Generic,245
+20129,Self Help Book Pro,Books,99.0,Brand E,392
+20130,T-Shirt,Fashion,99.0,Brand E,196
+20131,Storage Box Basic,Home & Kitchen,99.0,Brand C,230
+20132,Keyboard,Electronics,170.31,Brand E,412
+20133,Jacket,Fashion,99.0,Brand E,334
+20134,Power Bank Premium,Electronics,115.7,Brand A,359
+20135,Self Help Book Premium,Books,99.0,Brand A,383
+20136,Exam Guide Basic,Books,99.0,Brand A,62
+20137,Hair Serum Pro,Beauty,99.0,Generic,310
+20138,Power Bank Pro,Electronics,120.93,Brand A,346
+20139,Water Bottle Premium,Home & Kitchen,99.0,Brand E,321
+20140,Handbag Basic,Fashion,105.5,Brand E,488
+20141,Headphones Basic,Electronics,180.63,Brand E,496
+20142,Dress Premium,Fashion,99.0,Brand C,114
+20143,Keyboard Classic,Electronics,301.23,Brand E,331
+20144,Power Bank Basic,Electronics,106.36,Brand C,265
+20145,Jacket Premium,Fashion,99.0,Brand A,429
+20146,Face Wash Pro,Beauty,99.0,Brand A,246
+20147,Sneakers Premium,Fashion,99.0,Generic,16
+20148,Monitor Premium,Electronics,99.0,Brand E,430
+20149,T-Shirt,Fashion,111.79,Brand D,475
+20150,Shampoo,Beauty,99.0,Generic,176
+20151,Smartwatch Premium,Electronics,139.18,Brand C,263
+20152,Headphones Premium,Electronics,342.13,Brand C,57
+20153,Mixer Grinder Basic,Home & Kitchen,99.0,Brand B,440
+20154,Smartphone Pro,Electronics,99.0,Generic,404
+20155,Running Shoes Pro,Sports,152.2,Brand C,78
+20156,T-Shirt,Fashion,99.0,Brand A,207
+20157,Keyboard Classic,Electronics,99.0,Generic,377
+20158,Cookware Set Classic,Home & Kitchen,99.0,Brand D,309
+20159,Desk Lamp Classic,Home & Kitchen,99.0,Brand A,445
+20160,Smartphone Basic,Electronics,103.37,Brand A,350
+20161,Jeans Classic,Fashion,99.0,Brand C,464
+20162,Cookware Set Basic,Home & Kitchen,99.0,Brand A,156
+20163,Children's Book,Books,99.0,Brand C,194
+20164,Yoga Mat Plus,Sports,99.0,Generic,262
+20165,Sunglasses Plus,Fashion,120.69,Brand B,411
+20166,Mixer Grinder,Home & Kitchen,101.36,Brand C,30
+20167,Mouse Premium,Electronics,149.54,Brand D,124
+20168,Dress Premium,Fashion,99.0,Brand D,97
+20169,Self Help Book,Books,99.0,Brand B,96
+20170,Perfume Classic,Beauty,99.0,Brand A,334
+20171,Dumbbells Pro,Sports,99.0,Brand C,115
+20172,Storage Box Premium,Home & Kitchen,99.0,Brand A,109
+20173,Dumbbells,Sports,99.0,Brand A,88
+20174,Yoga Mat Pro,Sports,99.0,Brand C,228
+20175,Badminton Racket Plus,Sports,99.0,Brand A,480
+20176,Fiction Book Pro,Books,99.0,Brand C,102
+20177,Sneakers Plus,Fashion,99.0,Brand A,434
+20178,Badminton Racket Pro,Sports,99.0,Brand A,257
+20179,Exam Guide Basic,Books,102.27,Brand B,98
+20180,Shampoo Pro,Beauty,99.0,Brand E,490
+20181,Children's Book Classic,Books,99.0,Brand E,188
+20182,Jeans Pro,Fashion,99.0,Brand A,31
+20183,Mixer Grinder,Home & Kitchen,99.0,Brand A,43
+20184,Badminton Racket Premium,Sports,99.0,Brand C,226
+20185,Handbag Plus,Fashion,99.0,Brand C,125
+20186,Desk Lamp Plus,Home & Kitchen,99.0,Brand A,131
+20187,Mouse Classic,Electronics,514.37,Brand B,490
+20188,Mouse Basic,Electronics,99.0,Brand B,161
+20189,Water Bottle Premium,Home & Kitchen,99.0,Brand C,186
+20190,Jacket Pro,Fashion,99.0,Brand A,94
+20191,Bedsheet Basic,Home & Kitchen,99.0,Brand C,220
+20192,T-Shirt Basic,Fashion,99.0,Generic,45
+20193,Exam Guide,Books,99.0,Generic,35
+20194,Power Bank,Electronics,99.0,Brand A,296
+20195,Cricket Bat Premium,Sports,99.0,Brand E,458
+20196,Jeans Pro,Fashion,99.0,Brand D,375
+20197,Dress Pro,Fashion,99.0,Brand B,60
+20198,Jeans Pro,Fashion,99.0,Brand B,81
+20199,Power Bank,Electronics,212.83,Brand B,72
+20200,Cookware Set Pro,Home & Kitchen,99.0,Brand B,415
+20201,Handbag Plus,Fashion,99.0,Brand A,79
+20202,Running Shoes,Sports,143.83,Brand B,386
+20203,Cricket Bat,Sports,99.0,Brand C,84
+20204,Mixer Grinder Classic,Home & Kitchen,198.04,Brand D,38
+20205,Dress Plus,Fashion,99.0,Brand D,136
+20206,Sneakers Classic,Fashion,128.25,Brand A,105
+20207,Jacket Plus,Fashion,99.0,Brand D,317
+20208,Cookware Set Plus,Home & Kitchen,99.0,Brand D,395
+20209,Fiction Book Pro,Books,99.0,Brand D,346
+20210,Desk Lamp Premium,Home & Kitchen,99.0,Brand C,66
+20211,Hair Serum Pro,Beauty,99.0,Brand D,184
+20212,Sneakers Classic,Fashion,99.0,Brand E,70
+20213,Monitor Plus,Electronics,99.0,Brand B,197
+20214,Keyboard Basic,Electronics,161.51,Brand B,27
+20215,Sneakers Pro,Fashion,99.0,Brand B,69
+20216,Sunscreen Plus,Beauty,99.0,Generic,189
+20217,Storage Box Pro,Home & Kitchen,99.0,Brand B,173
+20218,Power Bank Pro,Electronics,664.65,Brand E,33
+20219,Children's Book Plus,Books,124.73,Brand E,202
+20220,Mixer Grinder Premium,Home & Kitchen,99.0,Brand E,207
+20221,Handbag Plus,Fashion,99.0,Brand E,82
+20222,Water Bottle Pro,Home & Kitchen,99.0,Brand D,454
+20223,Smartphone Premium,Electronics,108.47,Brand E,235
+20224,Perfume Plus,Beauty,188.48,Brand B,120
+20225,Children's Book Pro,Books,99.0,Generic,26
+20226,Storage Box Premium,Home & Kitchen,99.0,Brand E,249
+20227,Jeans Classic,Fashion,99.0,Brand E,119
+20228,Power Bank Premium,Electronics,99.0,Brand C,22
+20229,Notebook Pro,Books,131.12,Generic,209
+20230,Running Shoes Premium,Sports,99.0,Generic,380
+20231,Desk Lamp Premium,Home & Kitchen,173.0,Brand D,169
+20232,T-Shirt Plus,Fashion,99.0,Brand C,68
+20233,Dress,Fashion,99.0,Brand A,34
+20234,Mouse,Electronics,391.79,Brand B,355
+20235,T-Shirt Classic,Fashion,99.0,Brand C,384
+20236,Bedsheet Plus,Home & Kitchen,99.0,Generic,341
+20237,Mouse Pro,Electronics,698.05,Brand C,448
+20238,Sunglasses Classic,Fashion,132.26,Generic,407
+20239,Badminton Racket Basic,Sports,99.0,Brand B,353
+20240,Water Bottle Classic,Home & Kitchen,99.0,Brand D,375
+20241,Perfume Pro,Beauty,100.41,Brand A,481
+20242,Jeans Plus,Fashion,99.0,Brand B,353
+20243,Water Bottle Premium,Home & Kitchen,123.85,Brand A,279
+20244,Jeans,Fashion,99.0,Brand C,108
+20245,Headphones Pro,Electronics,153.41,Generic,272
+20246,Hair Serum Basic,Beauty,99.0,Brand B,426
+20247,Monitor Basic,Electronics,99.0,Brand E,157
+20248,Desk Lamp Classic,Home & Kitchen,99.0,Brand C,366
+20249,Children's Book Classic,Books,99.0,Brand B,68
+20250,Storage Box Premium,Home & Kitchen,99.0,Brand D,259
+20251,Water Bottle,Home & Kitchen,126.1,Brand B,107
+20252,Running Shoes,Sports,99.0,Brand E,201
+20253,Hair Serum Plus,Beauty,99.0,Brand D,18
+20254,Cookware Set Plus,Home & Kitchen,99.0,Brand C,7
+20255,Face Wash,Beauty,99.0,Brand A,68
+20256,Cricket Bat,Sports,99.0,Brand E,492
+20257,Sneakers Basic,Fashion,111.56,Brand B,263
+20258,Notebook Pro,Books,99.0,Brand C,394
+20259,Keyboard Premium,Electronics,99.0,Brand C,101
+20260,Jacket,Fashion,99.0,Brand E,314
+20261,Smartwatch Premium,Electronics,140.02,Brand B,475
+20262,Perfume Basic,Beauty,99.0,Brand E,396
+20263,Monitor Premium,Electronics,102.84,Brand C,303
+20264,Handbag Premium,Fashion,99.0,Brand A,418
+20265,Headphones Basic,Electronics,163.46,Generic,192
+20266,Storage Box Pro,Home & Kitchen,99.0,Brand D,433
+20267,Mixer Grinder Classic,Home & Kitchen,99.0,Unknown,490
+20268,Keyboard Basic,Electronics,99.0,Brand B,339
+20269,Laptop,Electronics,99.0,Brand D,323
+20270,Headphones,Electronics,99.0,Generic,93
+20271,Smartphone Plus,Electronics,152.97,Brand A,17
+20272,Desk Lamp Pro,Home & Kitchen,119.8,Brand B,66
+20273,Handbag,Fashion,99.0,Brand A,397
+20274,Monitor Basic,Electronics,575.65,Brand D,324
+20275,Mixer Grinder Pro,Home & Kitchen,99.0,Brand E,465
+20276,Mouse Plus,Electronics,99.0,Brand B,39
+20277,Jacket Basic,Fashion,99.0,Brand A,224
+20278,Smartwatch Basic,Electronics,99.0,Brand D,257
+20279,Hair Serum Premium,Beauty,100.08,Brand A,219
+20280,Children's Book Classic,Books,99.0,Brand D,476
+20281,Dress Basic,Fashion,99.0,Generic,63
+20282,Cookware Set Basic,Home & Kitchen,99.0,Brand A,330
+20283,Running Shoes Classic,Sports,99.0,Brand D,84
+20284,Sunscreen Basic,Beauty,99.0,Brand C,14
+20285,Mixer Grinder Pro,Home & Kitchen,99.0,Brand B,391
+20286,Headphones,Electronics,318.84,Brand B,191
+20287,Cricket Bat Premium,Sports,99.0,Brand E,44
+20288,Yoga Mat Classic,Sports,99.0,Brand C,38
+20289,Storage Box Plus,Home & Kitchen,99.0,Brand A,195
+20290,Headphones Classic,Electronics,99.0,Brand E,348
+20291,Headphones Plus,Electronics,121.97,Brand C,287
+20292,Mouse Premium,Electronics,100.89,Generic,131
+20293,Shampoo Pro,Beauty,99.0,Brand A,431
+20294,Laptop Classic,Electronics,383.02,Brand C,489
+20295,Jacket,Fashion,99.0,Generic,423
+20296,Moisturizer Plus,Beauty,99.0,Brand E,116
+20297,Mouse Plus,Electronics,207.11,Brand E,89
+20298,Water Bottle Premium,Home & Kitchen,135.38,Brand B,51
+20299,Storage Box Basic,Home & Kitchen,99.0,Brand B,65
+20300,Power Bank Premium,Electronics,533.41,Brand A,460
+20301,Face Wash,Beauty,99.0,Brand D,10
+20302,Laptop Plus,Electronics,365.37,Brand E,323
+20303,Keyboard Premium,Electronics,109.14,Generic,334
+20304,Jeans Plus,Fashion,99.0,Brand D,491
+20305,Cookware Set Pro,Home & Kitchen,99.0,Brand B,219
+20306,Keyboard Premium,Electronics,99.0,Brand C,267
+20307,Smartwatch Premium,Electronics,156.24,Brand A,161
+20308,Sneakers Premium,Fashion,99.0,Brand A,95
+20309,Smartwatch Classic,Electronics,99.0,Brand B,12
+20310,Headphones Plus,Electronics,117.45,Brand D,225
+20311,Jeans Plus,Fashion,99.0,Brand A,431
+20312,Sunglasses,Fashion,99.0,Brand C,248
+20313,Running Shoes Plus,Sports,116.1,Brand B,330
+20314,Monitor Classic,Electronics,127.63,Generic,487
+20315,Water Bottle Premium,Home & Kitchen,99.0,Brand D,210
+20316,Sneakers Classic,Fashion,99.0,Brand A,375
+20317,Smartphone Premium,Electronics,141.38,Brand A,40
+20318,Notebook Classic,Books,99.0,Brand B,61
+20319,Headphones,Electronics,99.0,Brand E,148
+20320,Water Bottle Pro,Home & Kitchen,99.0,Brand A,98
+20321,Desk Lamp Plus,Home & Kitchen,99.0,Generic,341
+20322,Power Bank Plus,Electronics,389.79,Generic,212
+20323,Notebook Classic,Books,99.0,Brand E,71
+20324,Water Bottle Plus,Home & Kitchen,99.0,Brand A,494
+20325,Shampoo Plus,Beauty,99.0,Generic,398
+20326,Storage Box Plus,Home & Kitchen,99.0,Brand C,449
+20327,Laptop Premium,Electronics,422.42,Brand B,260
+20328,Dumbbells Plus,Sports,99.0,Brand C,212
+20329,T-Shirt Classic,Fashion,113.56,Generic,183
+20330,Sneakers Pro,Fashion,99.0,Brand D,400
+20331,Sunglasses Pro,Fashion,99.0,Brand E,390
+20332,Water Bottle Premium,Home & Kitchen,99.0,Generic,46
+20333,Jacket Pro,Fashion,110.82,Generic,391
+20334,Children's Book Plus,Books,103.03,Generic,34
+20335,Children's Book Basic,Books,99.0,Generic,194
+20336,Dress,Fashion,99.0,Brand A,204
+20337,Power Bank Plus,Electronics,293.47,Brand E,333
+20338,Headphones Pro,Electronics,99.0,Brand D,396
+20339,Dress,Fashion,99.0,Brand C,111
+20340,Sneakers Premium,Fashion,99.0,Brand E,413
+20341,Yoga Mat Classic,Sports,99.0,Brand E,0
+20342,Dress Plus,Fashion,99.0,Brand A,235
+20343,Mixer Grinder Classic,Home & Kitchen,99.0,Brand B,354
+20344,Fiction Book Pro,Books,99.0,Brand C,72
+20345,Water Bottle,Home & Kitchen,99.0,Brand C,7
+20346,Sneakers,Fashion,99.0,Brand C,162
+20347,Storage Box Basic,Home & Kitchen,99.0,Generic,195
+20348,Smartphone Basic,Electronics,113.77,Brand C,323
+20349,Water Bottle Classic,Home & Kitchen,99.0,Brand C,397
+20350,Self Help Book Classic,Books,143.65,Brand A,96
+20351,Exam Guide Basic,Books,99.0,Brand E,209
+20352,Smartphone Basic,Electronics,99.0,Brand A,285
+20353,T-Shirt,Fashion,99.0,Generic,424
+20354,Notebook Premium,Books,124.95,Brand A,478
+20355,Water Bottle Pro,Home & Kitchen,99.0,Generic,37
+20356,Keyboard Premium,Electronics,153.96,Brand A,262
+20357,Desk Lamp,Home & Kitchen,99.0,Brand D,171
+20358,Handbag,Fashion,99.0,Generic,184
+20359,Children's Book Premium,Books,99.0,Generic,481
+20360,Power Bank Classic,Electronics,269.39,Brand D,316
+20361,Jacket Premium,Fashion,99.0,Brand E,156
+20362,Children's Book Premium,Books,106.08,Brand A,246
+20363,Sunglasses Classic,Fashion,99.0,Brand C,36
+20364,Jacket Premium,Fashion,120.52,Brand E,76
+20365,Smartwatch Premium,Electronics,99.0,Brand A,358
+20366,Bedsheet Plus,Home & Kitchen,99.0,Brand C,361
+20367,Moisturizer,Beauty,99.0,Brand B,40
+20368,Laptop Plus,Electronics,100.31,Generic,267
+20369,Storage Box Pro,Home & Kitchen,99.0,Brand D,150
+20370,Running Shoes Pro,Sports,99.0,Brand A,77
+20371,Handbag Plus,Fashion,99.0,Brand B,334
+20372,Power Bank Classic,Electronics,152.03,Brand C,492
+20373,Mouse Premium,Electronics,99.0,Brand B,499
+20374,Cookware Set Classic,Home & Kitchen,99.0,Brand E,383
+20375,Fiction Book Classic,Books,99.0,Brand B,482
+20376,Smartphone Classic,Electronics,99.0,Brand E,218
+20377,Sunscreen Pro,Beauty,168.66,Brand B,415
+20378,Monitor Classic,Electronics,109.77,Brand A,495
+20379,Sunglasses Premium,Fashion,99.0,Brand D,175
+20380,Mouse Pro,Electronics,148.84,Brand A,331
+20381,Monitor Classic,Electronics,99.0,Brand C,344
+20382,Shampoo Classic,Beauty,99.0,Brand C,321
+20383,Handbag Pro,Fashion,189.01,Brand A,130
+20384,Keyboard Premium,Electronics,99.0,Brand C,113
+20385,Self Help Book Plus,Books,117.66,Brand B,170
+20386,Hair Serum Premium,Beauty,99.0,Generic,413
+20387,Mixer Grinder,Home & Kitchen,99.0,Brand D,379
+20388,Yoga Mat Premium,Sports,99.0,Brand B,207
+20389,Hair Serum Classic,Beauty,99.0,Brand E,312
+20390,Sunglasses,Fashion,99.0,Brand A,436
+20391,Water Bottle,Home & Kitchen,99.0,Brand D,331
+20392,Sneakers Classic,Fashion,99.0,Brand B,396
+20393,Sneakers,Fashion,121.96,Brand B,307
+20394,Laptop Classic,Electronics,147.3,Generic,296
+20395,Notebook Basic,Books,99.0,Generic,442
+20396,Water Bottle Pro,Home & Kitchen,99.0,Brand D,81
+20397,Jeans Plus,Fashion,127.42,Brand B,75
+20398,Keyboard Plus,Electronics,257.92,Brand B,132
+20399,Sunglasses Classic,Fashion,99.0,Brand D,290
+20400,Desk Lamp Premium,Home & Kitchen,99.0,Brand E,338
+20401,Face Wash Pro,Beauty,99.0,Brand B,404
+20402,Storage Box Pro,Home & Kitchen,99.0,Brand C,494
+20403,Smartphone Classic,Electronics,428.98,Brand D,163
+20404,Jacket Classic,Fashion,99.0,Brand A,77
+20405,Water Bottle Premium,Home & Kitchen,99.0,Brand B,496
+20406,Laptop Classic,Electronics,99.0,Brand B,99
+20407,Notebook Basic,Books,99.0,Brand C,96
+20408,Dress Premium,Fashion,99.0,Brand E,350
+20409,Mouse Basic,Electronics,99.0,Generic,53
+20410,Handbag,Fashion,99.0,Generic,233
+20411,Cricket Bat,Sports,99.0,Brand E,434
+20412,Storage Box Premium,Home & Kitchen,138.03,Brand A,479
+20413,Shampoo Pro,Beauty,99.0,Brand A,105
+20414,Jeans Pro,Fashion,175.62,Brand E,322
+20415,Water Bottle Plus,Home & Kitchen,99.0,Brand D,22
+20416,Handbag Pro,Fashion,99.0,Brand A,42
+20417,Monitor Pro,Electronics,99.0,Brand D,458
+20418,T-Shirt Classic,Fashion,99.0,Brand B,171
+20419,Fiction Book Plus,Books,99.0,Brand B,454
+20420,Sneakers Classic,Fashion,99.0,Brand A,164
+20421,Cricket Bat Plus,Sports,99.0,Generic,30
+20422,Bedsheet Basic,Home & Kitchen,99.0,Brand A,309
+20423,Handbag,Fashion,99.0,Brand A,368
+20424,Shampoo Basic,Beauty,99.0,Brand A,101
+20425,Sunglasses Basic,Fashion,99.0,Brand C,286
+20426,Headphones Basic,Electronics,99.0,Brand B,123
+20427,Handbag,Fashion,99.0,Brand B,49
+20428,Perfume Premium,Beauty,99.0,Generic,269
+20429,Shampoo Pro,Beauty,159.67,Brand D,314
+20430,Laptop Classic,Electronics,225.58,Brand B,258
+20431,Power Bank Classic,Electronics,99.0,Generic,98
+20432,Cookware Set Plus,Home & Kitchen,99.0,Brand C,126
+20433,Water Bottle Classic,Home & Kitchen,99.0,Brand B,170
+20434,Sneakers Classic,Fashion,99.0,Brand B,152
+20435,Smartphone Basic,Electronics,238.48,Brand A,160
+20436,Smartwatch,Electronics,130.25,Brand A,104
+20437,Bedsheet Premium,Home & Kitchen,225.37,Brand D,152
+20438,Shampoo Classic,Beauty,99.0,Brand E,220
+20439,Mouse Premium,Electronics,103.22,Brand D,201
+20440,Desk Lamp Pro,Home & Kitchen,99.0,Brand E,67
+20441,Power Bank Classic,Electronics,140.32,Brand E,59
+20442,Mouse Premium,Electronics,272.88,Brand C,308
+20443,Shampoo,Beauty,99.0,Brand C,163
+20444,Power Bank Classic,Electronics,99.0,Brand E,444
+20445,Smartwatch,Electronics,155.31,Brand C,266
+20446,Fiction Book Pro,Books,127.1,Generic,116
+20447,Running Shoes Basic,Sports,99.0,Brand B,17
+20448,Mouse Plus,Electronics,126.46,Brand E,103
+20449,Smartphone,Electronics,263.09,Brand B,306
+20450,Storage Box Premium,Home & Kitchen,99.0,Brand C,90
+20451,Smartphone Basic,Electronics,204.05,Brand B,298
+20452,Shampoo Premium,Beauty,99.0,Brand B,80
+20453,Hair Serum Basic,Beauty,99.0,Brand D,263
+20454,Desk Lamp Classic,Home & Kitchen,99.0,Brand A,262
+20455,Dumbbells Pro,Sports,99.0,Brand A,181
+20456,Monitor Pro,Electronics,119.48,Brand A,220
+20457,Laptop Premium,Electronics,302.65,Brand A,18
+20458,Water Bottle,Home & Kitchen,99.0,Brand E,178
+20459,Self Help Book Basic,Books,99.0,Brand A,495
+20460,T-Shirt Pro,Fashion,99.0,Brand C,30
+20461,Sunglasses Basic,Fashion,99.0,Brand D,326
+20462,Notebook Plus,Books,99.0,Brand B,357
+20463,Jeans,Fashion,99.0,Brand E,59
+20464,Jeans Premium,Fashion,99.0,Generic,446
+20465,Desk Lamp,Home & Kitchen,99.0,Brand E,460
+20466,Self Help Book Pro,Books,99.0,Brand D,493
+20467,Mixer Grinder Premium,Home & Kitchen,128.74,Brand C,181
+20468,Jeans Pro,Fashion,99.0,Brand D,404
+20469,Bedsheet Classic,Home & Kitchen,99.0,Generic,231
+20470,Power Bank Premium,Electronics,222.69,Brand C,119
+20471,Cookware Set Plus,Home & Kitchen,99.0,Brand E,149
+20472,Notebook Premium,Books,99.0,Brand C,360
+20473,Mixer Grinder Pro,Home & Kitchen,99.0,Generic,0
+20474,Running Shoes Classic,Sports,99.0,Brand C,90
+20475,Sunglasses Plus,Fashion,99.0,Brand D,274
+20476,Headphones Classic,Electronics,145.32,Brand B,188
+20477,Face Wash Premium,Beauty,99.0,Brand C,465
+20478,Sneakers Premium,Fashion,99.0,Generic,109
+20479,Sneakers Basic,Fashion,99.0,Brand C,135
+20480,Moisturizer Plus,Beauty,99.0,Brand B,11
+20481,Face Wash Basic,Beauty,99.0,Brand B,100
+20482,Power Bank Premium,Electronics,170.29,Brand B,327
+20483,Yoga Mat,Sports,99.0,Brand B,68
+20484,Laptop,Electronics,99.0,Brand D,275
+20485,Water Bottle Premium,Home & Kitchen,99.0,Brand E,75
+20486,Mouse Plus,Electronics,99.0,Brand E,201
+20487,Self Help Book Classic,Books,100.91,Brand D,443
+20488,Sneakers Classic,Fashion,99.0,Brand E,22
+20489,Smartphone Premium,Electronics,218.73,Generic,152
+20490,Handbag,Fashion,99.0,Generic,463
+20491,Keyboard Plus,Electronics,99.0,Brand B,46
+20492,Smartwatch Classic,Electronics,275.65,Brand E,470
+20493,Sneakers Classic,Fashion,99.0,Brand C,68
+20494,Water Bottle Basic,Home & Kitchen,99.0,Generic,244
+20495,Smartphone Premium,Electronics,99.0,Brand A,488
+20496,T-Shirt Pro,Fashion,99.0,Brand B,225
+20497,Shampoo Classic,Beauty,99.0,Unknown,28
+20498,Fiction Book Classic,Books,99.0,Brand A,126
+20499,Headphones Pro,Electronics,101.25,Brand D,274
+20500,Smartwatch Classic,Electronics,278.83,Brand D,112
+20501,Hair Serum Plus,Beauty,99.0,Generic,367
+20502,Power Bank Premium,Electronics,170.05,Brand A,406
+20503,Sunglasses Basic,Fashion,99.0,Brand D,218
+20504,Handbag Pro,Fashion,99.0,Generic,52
+20505,Headphones Basic,Electronics,125.2,Brand C,312
+20506,Exam Guide Premium,Books,101.05,Brand D,80
+20507,Shampoo Basic,Beauty,99.0,Generic,408
+20508,Mouse Plus,Electronics,611.14,Brand E,410
+20509,Handbag Pro,Fashion,99.0,Brand D,365
+20510,Cookware Set Premium,Home & Kitchen,99.0,Brand A,127
+20511,Headphones Classic,Electronics,155.2,Brand B,322
+20512,Cricket Bat Pro,Sports,99.0,Brand D,498
+20513,Sunglasses Basic,Fashion,99.0,Brand B,43
+20514,Mouse Basic,Electronics,99.0,Generic,229
+20515,Hair Serum Classic,Beauty,126.1,Brand C,437
+20516,Smartwatch Basic,Electronics,99.0,Brand A,5
+20517,T-Shirt Basic,Fashion,134.88,Brand E,225
+20518,Children's Book Classic,Books,99.0,Brand A,255
+20519,Storage Box Plus,Home & Kitchen,99.0,Brand C,234
+20520,Desk Lamp Basic,Home & Kitchen,99.0,Brand A,295
+20521,Moisturizer Plus,Beauty,113.47,Brand B,425
+20522,Storage Box Classic,Home & Kitchen,99.0,Brand C,153
+20523,Headphones Premium,Electronics,461.34,Brand C,421
+20524,Sunglasses Basic,Fashion,99.0,Brand A,78
+20525,Face Wash Basic,Beauty,99.0,Brand E,346
+20526,Sneakers Classic,Fashion,99.0,Generic,34
+20527,Sneakers Pro,Fashion,99.0,Brand E,488
+20528,Exam Guide Pro,Books,99.0,Brand A,242
+20529,Mixer Grinder,Home & Kitchen,163.09,Brand B,431
+20530,Sneakers,Fashion,99.0,Brand A,123
+20531,Hair Serum Basic,Beauty,99.0,Brand E,74
+20532,Fiction Book,Books,140.93,Brand A,139
+20533,Jeans Plus,Fashion,99.0,Generic,420
+20534,Monitor Basic,Electronics,152.97,Brand A,463
+20535,T-Shirt Classic,Fashion,99.0,Brand E,265
+20536,Sunscreen Basic,Beauty,99.0,Generic,161
+20537,Fiction Book Classic,Books,108.2,Brand D,188
+20538,Storage Box Classic,Home & Kitchen,99.0,Brand E,211
+20539,Mouse Basic,Electronics,99.0,Generic,479
+20540,Exam Guide Plus,Books,99.0,Brand E,98
+20541,Fiction Book Basic,Books,151.36,Brand A,346
+20542,Jeans Classic,Fashion,101.62,Generic,286
+20543,Fiction Book Plus,Books,99.0,Brand E,202
+20544,Cookware Set Pro,Home & Kitchen,99.0,Brand E,259
+20545,Running Shoes Basic,Sports,99.0,Brand E,294
+20546,Keyboard Basic,Electronics,297.52,Brand D,345
+20547,Desk Lamp Pro,Home & Kitchen,99.0,Brand C,303
+20548,Self Help Book Pro,Books,99.0,Brand A,8
+20549,Jeans Premium,Fashion,140.67,Brand E,269
+20550,Desk Lamp Basic,Home & Kitchen,99.0,Brand E,334
+20551,Sunscreen Basic,Beauty,99.0,Brand E,477
+20552,Mouse Basic,Electronics,224.39,Brand E,480
+20553,Jacket Plus,Fashion,99.0,Brand D,67
+20554,Dumbbells Premium,Sports,99.0,Brand D,394
+20555,Sunscreen Classic,Beauty,99.0,Brand E,250
+20556,Self Help Book Premium,Books,99.0,Brand C,399
+20557,Yoga Mat Plus,Sports,99.0,Brand D,226
+20558,Headphones,Electronics,236.19,Brand C,229
+20559,Mixer Grinder,Home & Kitchen,99.0,Brand E,485
+20560,Jacket Basic,Fashion,99.0,Brand B,441
+20561,Headphones Basic,Electronics,136.85,Brand D,272
+20562,T-Shirt Basic,Fashion,99.0,Brand C,346
+20563,Sunglasses Classic,Fashion,99.0,Brand B,374
+20564,Sunscreen Plus,Beauty,99.0,Brand D,172
+20565,Sunglasses Basic,Fashion,99.0,Brand D,263
+20566,Bedsheet Plus,Home & Kitchen,99.0,Brand C,184
+20567,Water Bottle Pro,Home & Kitchen,99.0,Brand E,293
+20568,Keyboard Plus,Electronics,263.93,Brand D,266
+20569,Sneakers Plus,Fashion,99.0,Brand B,225
+20570,Laptop Premium,Electronics,134.97,Brand E,133
+20571,Children's Book,Books,99.0,Generic,316
+20572,Sneakers Classic,Fashion,236.0,Brand B,361
+20573,Monitor Basic,Electronics,428.75,Brand A,266
+20574,Cricket Bat Basic,Sports,210.07,Generic,66
+20575,Monitor,Electronics,142.25,Brand C,143
+20576,Bedsheet Pro,Home & Kitchen,99.0,Brand A,387
+20577,Desk Lamp Plus,Home & Kitchen,99.0,Generic,399
+20578,Power Bank Basic,Electronics,99.0,Brand A,379
+20579,T-Shirt Classic,Fashion,99.0,Brand B,140
+20580,Mouse Plus,Electronics,324.33,Brand A,389
+20581,Jeans Classic,Fashion,99.0,Brand E,244
+20582,Monitor Basic,Electronics,99.0,Brand E,135
+20583,Keyboard Plus,Electronics,414.56,Brand A,227
+20584,Smartphone Plus,Electronics,194.6,Brand E,346
+20585,Jacket Classic,Fashion,99.0,Brand A,42
+20586,Fiction Book Basic,Books,124.37,Brand B,293
+20587,Cookware Set Pro,Home & Kitchen,99.0,Brand A,240
+20588,Notebook Plus,Books,99.0,Brand E,15
+20589,Mixer Grinder Pro,Home & Kitchen,99.0,Brand A,371
+20590,Jacket Classic,Fashion,99.0,Generic,419
+20591,Mouse Classic,Electronics,230.7,Brand A,142
+20592,Bedsheet Plus,Home & Kitchen,99.0,Generic,372
+20593,Badminton Racket Premium,Sports,99.0,Brand D,271
+20594,Moisturizer Premium,Beauty,99.0,Brand B,149
+20595,Mixer Grinder Basic,Home & Kitchen,99.0,Brand D,432
+20596,Dress Plus,Fashion,99.0,Brand D,241
+20597,Children's Book Basic,Books,99.0,Brand A,0
+20598,Jacket,Fashion,99.0,Brand D,8
+20599,Monitor Premium,Electronics,384.24,Generic,110
+20600,Shampoo Plus,Beauty,99.0,Brand C,198
+20601,Sneakers Plus,Fashion,99.0,Generic,91
+20602,Running Shoes Plus,Sports,99.0,Brand B,146
+20603,Keyboard Pro,Electronics,329.72,Brand C,1
+20604,Monitor Premium,Electronics,99.0,Brand A,428
+20605,Mouse Premium,Electronics,284.92,Brand D,84
+20606,Smartwatch,Electronics,113.02,Brand E,120
+20607,Smartphone Pro,Electronics,135.64,Brand C,239
+20608,Exam Guide Plus,Books,119.45,Generic,455
+20609,Monitor Premium,Electronics,165.05,Generic,224
+20610,Mouse Plus,Electronics,99.0,Generic,116
+20611,Smartphone,Electronics,168.8,Generic,326
+20612,Dress,Fashion,99.0,Brand D,398
+20613,Water Bottle Plus,Home & Kitchen,99.0,Brand E,250
+20614,Mixer Grinder Plus,Home & Kitchen,99.0,Brand A,494
+20615,Storage Box Premium,Home & Kitchen,99.0,Generic,211
+20616,Jacket,Fashion,99.0,Brand D,192
+20617,Smartwatch Pro,Electronics,754.87,Brand E,394
+20618,Children's Book Pro,Books,99.0,Brand E,488
+20619,Sneakers Classic,Fashion,99.0,Brand B,214
+20620,Smartwatch Plus,Electronics,99.0,Brand A,237
+20621,Sunglasses Premium,Fashion,99.0,Brand E,27
+20622,T-Shirt Basic,Fashion,99.0,Generic,67
+20623,Shampoo Pro,Beauty,99.0,Brand E,256
+20624,Laptop Premium,Electronics,99.0,Brand D,85
+20625,Sneakers Premium,Fashion,99.0,Brand B,414
+20626,Bedsheet Plus,Home & Kitchen,99.0,Brand D,80
+20627,Monitor,Electronics,305.9,Brand D,165
+20628,Mouse Basic,Electronics,242.62,Brand A,436
+20629,Bedsheet Premium,Home & Kitchen,99.0,Brand E,4
+20630,Sneakers Basic,Fashion,99.0,Brand E,88
+20631,Self Help Book Plus,Books,173.34,Brand B,439
+20632,Bedsheet Basic,Home & Kitchen,99.0,Brand E,386
+20633,Handbag Plus,Fashion,99.0,Brand A,204
+20634,Bedsheet Basic,Home & Kitchen,99.0,Generic,461
+20635,Jacket Plus,Fashion,99.0,Brand A,293
+20636,Laptop Classic,Electronics,99.0,Brand D,90
+20637,Smartwatch Basic,Electronics,99.0,Brand A,441
+20638,Mouse Classic,Electronics,155.33,Brand B,159
+20639,Smartwatch Premium,Electronics,99.0,Brand E,20
+20640,Mixer Grinder Pro,Home & Kitchen,99.0,Brand D,152
+20641,Mouse Premium,Electronics,99.0,Brand A,201
+20642,Bedsheet,Home & Kitchen,99.0,Brand C,27
+20643,T-Shirt Pro,Fashion,99.0,Brand A,228
+20644,Handbag Pro,Fashion,99.0,Brand B,450
+20645,Bedsheet Premium,Home & Kitchen,99.0,Brand C,438
+20646,Dumbbells,Sports,99.0,Generic,349
+20647,Mixer Grinder Basic,Home & Kitchen,99.0,Brand A,394
+20648,T-Shirt Classic,Fashion,99.0,Brand D,290
+20649,Sneakers,Fashion,99.28,Brand C,12
+20650,Children's Book Premium,Books,99.0,Brand A,60
+20651,Moisturizer Plus,Beauty,99.0,Brand E,359
+20652,Cricket Bat Classic,Sports,99.0,Brand E,200
+20653,Smartwatch Basic,Electronics,175.02,Generic,52
+20654,Cookware Set Pro,Home & Kitchen,99.0,Brand E,151
+20655,Smartphone Classic,Electronics,243.64,Generic,448
+20656,Jeans Plus,Fashion,99.0,Generic,408
+20657,Cookware Set,Home & Kitchen,137.28,Generic,360
+20658,Desk Lamp Plus,Home & Kitchen,197.22,Generic,191
+20659,Jeans Pro,Fashion,99.0,Brand A,45
+20660,Moisturizer Pro,Beauty,99.0,Brand B,335
+20661,Jeans Basic,Fashion,99.0,Brand C,160
+20662,Jacket Pro,Fashion,99.0,Brand D,352
+20663,Storage Box Classic,Home & Kitchen,99.0,Brand D,464
+20664,Keyboard Classic,Electronics,200.8,Brand B,129
+20665,Shampoo Pro,Beauty,99.0,Brand B,257
+20666,Sneakers,Fashion,99.0,Brand C,139
+20667,Children's Book Classic,Books,99.0,Brand C,57
+20668,Children's Book Classic,Books,99.0,Brand D,392
+20669,Sneakers,Fashion,99.0,Brand C,432
+20670,Smartphone Pro,Electronics,295.19,Brand A,12
+20671,Exam Guide Basic,Books,99.0,Brand A,319
+20672,Smartphone,Electronics,347.29,Brand A,426
+20673,Dumbbells Premium,Sports,99.0,Brand A,313
+20674,Yoga Mat Premium,Sports,99.0,Generic,495
+20675,Sneakers Pro,Fashion,99.0,Generic,337
+20676,Headphones Plus,Electronics,99.0,Brand D,8
+20677,Bedsheet Plus,Home & Kitchen,173.53,Generic,448
+20678,T-Shirt,Fashion,99.0,Generic,464
+20679,Sunscreen Pro,Beauty,99.0,Generic,446
+20680,Face Wash Basic,Beauty,99.0,Brand D,244
+20681,Headphones Plus,Electronics,99.0,Brand A,209
+20682,Hair Serum Pro,Beauty,99.0,Brand E,97
+20683,Notebook Plus,Books,99.0,Brand C,144
+20684,Running Shoes Basic,Sports,99.0,Generic,17
+20685,Headphones,Electronics,262.53,Generic,446
+20686,Cookware Set Premium,Home & Kitchen,138.7,Brand D,493
+20687,Fiction Book,Books,99.0,Brand C,133
+20688,Fiction Book Premium,Books,99.0,Brand D,232
+20689,Sneakers Classic,Fashion,173.91,Generic,227
+20690,Dress Pro,Fashion,99.0,Generic,95
+20691,Cookware Set,Home & Kitchen,109.7,Generic,457
+20692,Bedsheet,Home & Kitchen,99.0,Generic,345
+20693,Bedsheet,Home & Kitchen,112.48,Brand A,29
+20694,Exam Guide Basic,Books,99.0,Brand E,47
+20695,Mouse Plus,Electronics,411.72,Brand E,289
+20696,Self Help Book Classic,Books,144.98,Generic,285
+20697,Jeans Classic,Fashion,99.0,Brand A,487
+20698,Headphones Pro,Electronics,333.82,Brand B,358
+20699,Sunglasses,Fashion,99.0,Brand C,142
+20700,Sunscreen Classic,Beauty,99.0,Generic,53
+20701,Mouse,Electronics,99.0,Generic,108
+20702,Perfume,Beauty,99.0,Brand C,426
+20703,Keyboard Pro,Electronics,214.05,Brand B,178
+20704,Laptop,Electronics,506.36,Brand B,87
+20705,Mouse Basic,Electronics,99.0,Brand A,441
+20706,Moisturizer Pro,Beauty,116.02,Brand A,269
+20707,Sunscreen Pro,Beauty,99.0,Brand D,188
+20708,Keyboard Classic,Electronics,200.74,Brand A,275
+20709,Mixer Grinder Pro,Home & Kitchen,99.0,Brand B,403
+20710,Smartphone Basic,Electronics,205.4,Brand B,29
+20711,Jeans Premium,Fashion,99.0,Brand E,228
+20712,Keyboard,Electronics,99.0,Generic,2
+20713,Storage Box,Home & Kitchen,99.0,Brand D,200
+20714,Water Bottle Classic,Home & Kitchen,99.0,Brand C,471
+20715,Handbag Basic,Fashion,99.0,Brand C,474
+20716,Notebook Basic,Books,99.0,Brand E,73
+20717,Badminton Racket Premium,Sports,99.0,Brand D,50
+20718,Jacket Plus,Fashion,99.0,Brand A,446
+20719,Laptop,Electronics,133.39,Brand C,287
+20720,Moisturizer Plus,Beauty,152.7,Generic,387
+20721,Laptop Pro,Electronics,99.0,Brand C,166
+20722,Smartwatch Plus,Electronics,99.0,Brand C,259
+20723,Keyboard,Electronics,123.49,Brand B,195
+20724,Headphones Classic,Electronics,152.08,Brand E,309
+20725,Jacket Basic,Fashion,99.0,Brand D,390
+20726,Desk Lamp Plus,Home & Kitchen,99.0,Brand D,443
+20727,Moisturizer Classic,Beauty,99.0,Brand B,265
+20728,Mouse Premium,Electronics,126.41,Generic,273
+20729,Mixer Grinder Pro,Home & Kitchen,102.05,Brand E,124
+20730,Self Help Book,Books,99.0,Brand E,191
+20731,Handbag,Fashion,99.0,Brand A,407
+20732,Jeans,Fashion,99.0,Brand D,289
+20733,Laptop,Electronics,99.0,Brand E,310
+20734,Smartwatch Premium,Electronics,99.0,Brand E,212
+20735,T-Shirt Classic,Fashion,99.0,Generic,171
+20736,Exam Guide Basic,Books,99.0,Brand D,339
+20737,Cricket Bat Pro,Sports,99.0,Brand E,393
+20738,Notebook,Books,149.9,Generic,422
+20739,Dumbbells Pro,Sports,99.0,Brand D,161
+20740,Keyboard Plus,Electronics,110.71,Brand C,289
+20741,Fiction Book Plus,Books,99.0,Brand D,141
+20742,Moisturizer Pro,Beauty,99.0,Brand B,108
+20743,Desk Lamp Premium,Home & Kitchen,99.0,Brand E,342
+20744,Children's Book Basic,Books,99.0,Brand C,225
+20745,Yoga Mat Classic,Sports,99.0,Generic,460
+20746,Smartphone Pro,Electronics,106.01,Brand A,58
+20747,Cookware Set Plus,Home & Kitchen,99.0,Brand A,10
+20748,Headphones Pro,Electronics,302.08,Brand A,106
+20749,Fiction Book Plus,Books,99.0,Brand A,152
+20750,Keyboard,Electronics,99.0,Brand B,150
+20751,Cricket Bat Classic,Sports,99.0,Generic,172
+20752,Smartphone Pro,Electronics,180.45,Brand B,493
+20753,Laptop Basic,Electronics,257.31,Brand A,281
+20754,Storage Box Pro,Home & Kitchen,99.0,Brand E,43
+20755,Hair Serum Pro,Beauty,99.0,Brand E,248
+20756,Exam Guide,Books,101.87,Brand D,399
+20757,Monitor Basic,Electronics,273.63,Brand D,25
+20758,Sunscreen Plus,Beauty,99.0,Brand C,180
+20759,Dumbbells Premium,Sports,99.0,Brand E,392
+20760,Self Help Book Plus,Books,99.0,Brand E,198
+20761,Storage Box Premium,Home & Kitchen,99.0,Generic,253
+20762,Storage Box Pro,Home & Kitchen,99.0,Brand E,324
+20763,Cookware Set Pro,Home & Kitchen,145.23,Generic,283
+20764,Smartwatch Pro,Electronics,99.0,Generic,113
+20765,Exam Guide Premium,Books,99.0,Brand B,115
+20766,Smartwatch,Electronics,229.29,Brand C,313
+20767,Sunscreen Plus,Beauty,99.0,Brand C,147
+20768,Face Wash,Beauty,99.0,Brand D,34
+20769,Bedsheet Classic,Home & Kitchen,99.0,Generic,289
+20770,Jeans Pro,Fashion,213.41,Brand A,336
+20771,Keyboard,Electronics,106.01,Brand C,77
+20772,Sneakers Plus,Fashion,99.0,Brand D,278
+20773,Badminton Racket Basic,Sports,99.0,Brand C,91
+20774,Headphones Premium,Electronics,138.78,Brand A,468
+20775,Storage Box Plus,Home & Kitchen,99.0,Brand A,302
+20776,Cookware Set Basic,Home & Kitchen,99.0,Brand C,463
+20777,Moisturizer Plus,Beauty,99.0,Brand C,351
+20778,Sneakers Pro,Fashion,99.0,Generic,17
+20779,Headphones Basic,Electronics,135.88,Brand D,241
+20780,Fiction Book Plus,Books,99.0,Generic,4
+20781,Handbag Basic,Fashion,99.0,Brand D,416
+20782,Badminton Racket Pro,Sports,99.0,Brand C,380
+20783,Face Wash Pro,Beauty,99.0,Brand C,227
+20784,Yoga Mat,Sports,99.0,Brand A,54
+20785,Laptop Pro,Electronics,443.13,Brand B,147
+20786,Headphones Pro,Electronics,176.63,Brand D,408
+20787,Dumbbells Plus,Sports,99.0,Brand A,361
+20788,Jeans Pro,Fashion,99.0,Brand C,235
+20789,Smartphone Classic,Electronics,102.25,Brand D,460
+20790,Sunscreen Pro,Beauty,109.45,Brand C,330
+20791,Water Bottle Plus,Home & Kitchen,99.0,Generic,399
+20792,Storage Box Plus,Home & Kitchen,99.0,Brand C,312
+20793,Power Bank Pro,Electronics,99.0,Brand A,403
+20794,Sneakers Pro,Fashion,99.0,Brand C,198
+20795,Sneakers Plus,Fashion,99.0,Brand B,218
+20796,T-Shirt Pro,Fashion,99.0,Brand D,271
+20797,Sunglasses Classic,Fashion,99.0,Brand B,355
+20798,Dress,Fashion,102.71,Generic,399
+20799,Dress Pro,Fashion,99.0,Brand B,289
+20800,Dress Premium,Fashion,99.0,Brand D,330
+20801,T-Shirt Pro,Fashion,99.0,Brand E,209
+20802,Cookware Set Basic,Home & Kitchen,99.0,Generic,180
+20803,Jacket Plus,Fashion,99.0,Generic,81
+20804,Cookware Set Pro,Home & Kitchen,99.0,Generic,148
+20805,Headphones Basic,Electronics,294.69,Generic,378
+20806,Sunglasses Classic,Fashion,99.0,Generic,441
+20807,Dress Plus,Fashion,183.2,Brand C,485
+20808,Mixer Grinder Basic,Home & Kitchen,99.0,Brand B,382
+20809,Notebook Basic,Books,99.0,Brand A,23
+20810,Power Bank Basic,Electronics,102.41,Brand D,6
+20811,Sunscreen Pro,Beauty,99.0,Generic,481
+20812,Jacket Basic,Fashion,99.0,Brand D,233
+20813,Jeans Pro,Fashion,99.0,Brand C,273
+20814,Children's Book Pro,Books,99.0,Brand E,424
+20815,Sunglasses Basic,Fashion,99.0,Brand C,252
+20816,Self Help Book,Books,99.0,Brand E,191
+20817,Sneakers Pro,Fashion,99.0,Brand B,490
+20818,Smartwatch Classic,Electronics,164.49,Brand D,386
+20819,Desk Lamp Basic,Home & Kitchen,99.0,Brand C,246
+20820,Water Bottle Basic,Home & Kitchen,99.0,Brand C,264
+20821,Smartphone Classic,Electronics,125.24,Generic,12
+20822,Laptop Plus,Electronics,179.41,Brand B,370
+20823,Bedsheet Pro,Home & Kitchen,99.0,Brand B,171
+20824,Shampoo Premium,Beauty,99.0,Brand C,21
+20825,Running Shoes Pro,Sports,99.0,Brand A,14
+20826,Hair Serum Pro,Beauty,99.0,Brand E,24
+20827,Smartwatch Premium,Electronics,99.0,Brand B,389
+20828,Mouse Plus,Electronics,280.62,Brand E,293
+20829,Water Bottle Plus,Home & Kitchen,99.0,Generic,367
+20830,Mouse Plus,Electronics,155.05,Brand D,482
+20831,Notebook Basic,Books,99.0,Brand E,273
+20832,Running Shoes Classic,Sports,99.0,Brand D,428
+20833,Yoga Mat Classic,Sports,99.0,Brand A,388
+20834,Headphones,Electronics,99.0,Brand A,148
+20835,Keyboard Basic,Electronics,363.97,Brand C,390
+20836,Dress,Fashion,99.0,Brand A,455
+20837,Cookware Set Premium,Home & Kitchen,99.0,Brand A,80
+20838,Cookware Set Basic,Home & Kitchen,99.0,Brand B,54
+20839,Sneakers Pro,Fashion,99.0,Brand A,211
+20840,Bedsheet Premium,Home & Kitchen,99.0,Brand C,163
+20841,Moisturizer,Beauty,186.91,Brand A,164
+20842,Moisturizer Premium,Beauty,99.0,Generic,335
+20843,Keyboard Plus,Electronics,174.24,Brand E,65
+20844,Headphones,Electronics,100.56,Generic,36
+20845,Shampoo Classic,Beauty,99.0,Brand B,446
+20846,Desk Lamp Premium,Home & Kitchen,99.0,Brand D,283
+20847,Sunscreen Pro,Beauty,99.0,Brand B,213
+20848,T-Shirt Plus,Fashion,99.0,Generic,403
+20849,Power Bank Pro,Electronics,99.0,Brand B,284
+20850,Smartwatch,Electronics,199.98,Brand D,412
+20851,Laptop Premium,Electronics,110.48,Brand A,395
+20852,Notebook,Books,99.0,Brand E,213
+20853,Jeans,Fashion,99.0,Brand C,242
+20854,Dress Basic,Fashion,123.0,Brand B,235
+20855,Children's Book Plus,Books,99.0,Generic,13
+20856,Keyboard Premium,Electronics,99.0,Brand C,484
+20857,Laptop Premium,Electronics,99.0,Brand B,318
+20858,Face Wash Plus,Beauty,99.0,Generic,391
+20859,Smartphone Classic,Electronics,177.38,Brand D,384
+20860,Jacket Classic,Fashion,99.0,Generic,355
+20861,Keyboard Basic,Electronics,237.59,Brand B,202
+20862,T-Shirt Pro,Fashion,99.0,Brand A,403
+20863,Laptop Pro,Electronics,189.17,Brand E,82
+20864,Smartwatch,Electronics,122.64,Brand A,443
+20865,Shampoo Premium,Beauty,99.0,Generic,263
+20866,Headphones Basic,Electronics,99.0,Brand D,109
+20867,Fiction Book Classic,Books,99.0,Brand D,193
+20868,Jacket Plus,Fashion,99.0,Brand E,239
+20869,Monitor,Electronics,99.0,Brand D,454
+20870,Sunglasses Pro,Fashion,99.0,Brand B,370
+20871,Sneakers Plus,Fashion,99.0,Brand D,320
+20872,Desk Lamp,Home & Kitchen,99.0,Brand E,33
+20873,Monitor,Electronics,494.53,Generic,177
+20874,Sunglasses,Fashion,99.0,Brand C,480
+20875,Children's Book Premium,Books,99.0,Brand C,103
+20876,Power Bank,Electronics,331.55,Brand A,122
+20877,Notebook Basic,Books,99.0,Brand A,308
+20878,Mouse Plus,Electronics,176.19,Generic,113
+20879,Power Bank,Electronics,99.0,Brand D,87
+20880,Desk Lamp Pro,Home & Kitchen,99.0,Brand D,477
+20881,Keyboard,Electronics,99.0,Brand A,285
+20882,Cricket Bat Classic,Sports,99.0,Brand C,48
+20883,Cookware Set Plus,Home & Kitchen,99.0,Brand D,118
+20884,Bedsheet Classic,Home & Kitchen,99.0,Brand B,365
+20885,Dress Classic,Fashion,114.56,Brand B,199
+20886,Desk Lamp,Home & Kitchen,99.0,Brand B,492
+20887,Power Bank Pro,Electronics,99.0,Brand A,244
+20888,Laptop Pro,Electronics,99.0,Brand B,393
+20889,Bedsheet,Home & Kitchen,99.0,Brand A,412
+20890,Keyboard,Electronics,151.02,Brand A,421
+20891,Mouse,Electronics,108.02,Generic,434
+20892,Storage Box Plus,Home & Kitchen,99.0,Brand C,135
+20893,Perfume Premium,Beauty,99.0,Brand D,214
+20894,Keyboard Pro,Electronics,229.47,Brand B,313
+20895,Monitor Premium,Electronics,99.0,Brand B,406
+20896,Mouse Premium,Electronics,161.68,Brand B,67
+20897,Laptop Pro,Electronics,325.6,Brand A,407
+20898,Sneakers Pro,Fashion,99.0,Brand D,476
+20899,Jacket Plus,Fashion,99.0,Brand E,106
+20900,Headphones,Electronics,178.5,Generic,16
+20901,Jeans Plus,Fashion,142.96,Generic,368
+20902,Desk Lamp Basic,Home & Kitchen,99.0,Brand E,446
+20903,Smartwatch Basic,Electronics,280.5,Brand A,379
+20904,Self Help Book Plus,Books,99.0,Brand E,419
+20905,Monitor Pro,Electronics,140.66,Brand D,198
+20906,Power Bank,Electronics,99.0,Brand B,183
+20907,Cookware Set Premium,Home & Kitchen,99.0,Brand E,181
+20908,Laptop Pro,Electronics,317.74,Generic,180
+20909,Desk Lamp Premium,Home & Kitchen,99.0,Brand E,406
+20910,Desk Lamp Plus,Home & Kitchen,99.0,Brand B,352
+20911,Moisturizer Pro,Beauty,99.0,Generic,238
+20912,Jacket Basic,Fashion,99.0,Generic,63
+20913,Mixer Grinder Pro,Home & Kitchen,99.0,Brand C,236
+20914,Mouse Basic,Electronics,130.51,Brand E,267
+20915,Storage Box,Home & Kitchen,99.0,Brand A,391
+20916,Smartphone,Electronics,346.23,Generic,402
+20917,Laptop Classic,Electronics,118.9,Brand A,289
+20918,Dumbbells Classic,Sports,171.63,Brand E,205
+20919,Keyboard Pro,Electronics,228.74,Generic,322
+20920,Children's Book Plus,Books,99.0,Brand C,438
+20921,Desk Lamp Premium,Home & Kitchen,99.0,Brand A,186
+20922,Dumbbells Pro,Sports,160.44,Brand B,367
+20923,Dress Basic,Fashion,99.0,Brand C,185
+20924,Smartphone Basic,Electronics,107.16,Brand A,313
+20925,Headphones Premium,Electronics,99.0,Brand D,362
+20926,Laptop Classic,Electronics,329.41,Brand D,472
+20927,Laptop Plus,Electronics,248.8,Brand E,498
+20928,Mouse Basic,Electronics,290.0,Brand D,441
+20929,Handbag,Fashion,152.51,Brand B,363
+20930,Smartwatch,Electronics,99.0,Brand D,232
+20931,Cookware Set Premium,Home & Kitchen,197.21,Brand E,486
+20932,Dress Basic,Fashion,99.0,Brand A,59
+20933,Desk Lamp Basic,Home & Kitchen,217.99,Generic,265
+20934,Sunscreen,Beauty,99.0,Brand B,260
+20935,Dress Classic,Fashion,135.77,Brand D,230
+20936,Self Help Book Classic,Books,99.0,Generic,342
+20937,Sneakers Plus,Fashion,99.0,Generic,82
+20938,Mixer Grinder Premium,Home & Kitchen,99.0,Brand B,236
+20939,Cookware Set Classic,Home & Kitchen,99.0,Generic,445
+20940,Laptop Classic,Electronics,99.0,Generic,30
+20941,Sunglasses Plus,Fashion,99.0,Brand A,321
+20942,Dress,Fashion,99.0,Brand E,361
+20943,Sunglasses Plus,Fashion,260.57,Brand E,125
+20944,Running Shoes Pro,Sports,99.0,Brand D,235
+20945,Mixer Grinder,Home & Kitchen,99.0,Brand B,410
+20946,Handbag Plus,Fashion,99.0,Brand A,270
+20947,Laptop Basic,Electronics,145.73,Brand D,368
+20948,Water Bottle Pro,Home & Kitchen,99.0,Brand E,454
+20949,Yoga Mat Plus,Sports,120.65,Brand C,327
+20950,Smartwatch Premium,Electronics,166.39,Brand C,75
+20951,Face Wash Plus,Beauty,99.0,Generic,411
+20952,Keyboard Pro,Electronics,184.42,Generic,71
+20953,Smartwatch Basic,Electronics,216.4,Brand D,479
+20954,Shampoo Premium,Beauty,99.0,Brand E,385
+20955,Cookware Set,Home & Kitchen,99.0,Brand B,316
+20956,Power Bank Premium,Electronics,99.0,Brand D,387
+20957,Fiction Book Basic,Books,99.0,Brand A,453
+20958,Monitor Premium,Electronics,216.11,Brand E,255
+20959,Children's Book Classic,Books,99.0,Brand E,349
+20960,Power Bank Basic,Electronics,931.8,Brand C,431
+20961,Moisturizer Classic,Beauty,99.0,Brand C,42
+20962,T-Shirt,Fashion,99.0,Brand C,403
+20963,Mouse Pro,Electronics,99.0,Brand C,477
+20964,Laptop Basic,Electronics,242.42,Brand D,31
+20965,Dress,Fashion,99.0,Brand D,286
+20966,Self Help Book Pro,Books,99.0,Brand B,105
+20967,Dress Basic,Fashion,99.0,Brand D,169
+20968,Mouse Plus,Electronics,99.0,Brand A,252
+20969,Storage Box Premium,Home & Kitchen,108.3,Brand D,246
+20970,Bedsheet,Home & Kitchen,110.73,Brand A,161
+20971,Desk Lamp Premium,Home & Kitchen,99.0,Brand B,176
+20972,Bedsheet Classic,Home & Kitchen,99.0,Brand C,20
+20973,Notebook Plus,Books,115.29,Generic,347
+20974,Smartwatch Basic,Electronics,105.89,Brand E,322
+20975,Running Shoes Basic,Sports,99.0,Brand C,139
+20976,Power Bank Pro,Electronics,403.62,Brand A,178
+20977,Moisturizer Classic,Beauty,99.0,Brand A,116
+20978,Water Bottle Basic,Home & Kitchen,178.09,Brand C,339
+20979,Jeans Plus,Fashion,182.89,Brand C,209
+20980,Storage Box Plus,Home & Kitchen,99.0,Brand A,300
+20981,Cricket Bat Premium,Sports,99.0,Brand B,307
+20982,Jacket Pro,Fashion,99.0,Brand D,258
+20983,Cricket Bat Classic,Sports,99.0,Brand E,63
+20984,Headphones,Electronics,368.06,Brand A,418
+20985,Jacket,Fashion,99.0,Brand D,430
+20986,Water Bottle Plus,Home & Kitchen,121.84,Brand B,134
+20987,Headphones Plus,Electronics,235.56,Brand D,248
+20988,Cookware Set,Home & Kitchen,108.78,Brand E,381
+20989,Storage Box Pro,Home & Kitchen,99.0,Brand A,438
+20990,Mouse Plus,Electronics,99.0,Brand D,148
+20991,Power Bank Plus,Electronics,107.11,Brand D,146
+20992,Jacket,Fashion,99.0,Brand C,61
+20993,Smartphone,Electronics,236.15,Brand C,313
+20994,Water Bottle Basic,Home & Kitchen,99.0,Brand D,216
+20995,T-Shirt,Fashion,99.0,Brand A,7
+20996,Notebook,Books,99.0,Brand C,160
+20997,Desk Lamp Plus,Home & Kitchen,99.0,Brand D,135
+20998,Laptop Classic,Electronics,398.7,Brand B,331
+20999,Laptop Plus,Electronics,99.0,Generic,27
+21000,T-Shirt Premium,Fashion,99.0,Brand D,248
+21001,Headphones Classic,Electronics,356.18,Brand E,83
+21002,Self Help Book Classic,Books,99.0,Brand E,493
+21003,Smartwatch,Electronics,225.87,Brand C,216
+21004,Shampoo Pro,Beauty,145.97,Brand B,186
+21005,Exam Guide,Books,99.0,Brand B,295
+21006,Monitor,Electronics,99.0,Brand E,18
+21007,Moisturizer Classic,Beauty,99.0,Generic,310
+21008,Face Wash Plus,Beauty,99.0,Generic,243
+21009,Bedsheet Classic,Home & Kitchen,130.16,Generic,331
+21010,Smartwatch Plus,Electronics,99.0,Generic,153
+21011,Cricket Bat,Sports,179.56,Brand E,115
+21012,Smartphone Pro,Electronics,99.0,Brand D,118
+21013,T-Shirt Classic,Fashion,99.0,Brand E,331
+21014,Shampoo Premium,Beauty,99.0,Brand C,35
+21015,Desk Lamp Classic,Home & Kitchen,99.0,Brand E,427
+21016,Hair Serum Pro,Beauty,154.61,Brand D,339
+21017,Dumbbells Premium,Sports,99.0,Brand C,109
+21018,Dress Classic,Fashion,115.35,Brand E,456
+21019,Smartwatch Premium,Electronics,165.96,Brand E,355
+21020,Dress Classic,Fashion,99.0,Brand D,436
+21021,Mixer Grinder Plus,Home & Kitchen,99.0,Brand B,321
+21022,Jacket Plus,Fashion,99.0,Brand A,77
+21023,Monitor Classic,Electronics,127.15,Brand E,252
+21024,Power Bank Pro,Electronics,112.91,Brand E,281
+21025,Monitor Pro,Electronics,266.53,Brand E,355
+21026,Jeans Classic,Fashion,99.0,Brand D,18
+21027,T-Shirt Premium,Fashion,99.0,Generic,56
+21028,Dress,Fashion,143.78,Brand E,447
+21029,Storage Box,Home & Kitchen,99.0,Brand B,36
+21030,Sunscreen Basic,Beauty,168.55,Brand D,209
+21031,Bedsheet Basic,Home & Kitchen,99.0,Brand B,53
+21032,T-Shirt Plus,Fashion,99.0,Brand B,440
+21033,Shampoo Classic,Beauty,99.0,Brand B,151
+21034,Sunscreen Classic,Beauty,99.0,Brand E,332
+21035,Yoga Mat Plus,Sports,99.0,Brand B,376
+21036,Sneakers Pro,Fashion,99.0,Brand D,32
+21037,Hair Serum,Beauty,99.0,Brand A,422
+21038,Headphones Basic,Electronics,522.35,Generic,104
+21039,Desk Lamp,Home & Kitchen,99.0,Brand B,51
+21040,Storage Box Pro,Home & Kitchen,110.7,Brand C,375
+21041,Desk Lamp Premium,Home & Kitchen,99.0,Brand A,118
+21042,Yoga Mat Plus,Sports,109.93,Brand A,387
+21043,Monitor Pro,Electronics,180.88,Brand A,113
+21044,Bedsheet,Home & Kitchen,99.0,Brand A,418
+21045,Desk Lamp Premium,Home & Kitchen,99.0,Brand B,318
+21046,Dress Classic,Fashion,99.0,Brand C,431
+21047,Cookware Set,Home & Kitchen,99.0,Brand C,380
+21048,Desk Lamp Basic,Home & Kitchen,99.0,Brand B,382
+21049,Bedsheet Classic,Home & Kitchen,99.0,Brand B,452
+21050,Smartphone Plus,Electronics,342.82,Brand A,121
+21051,Notebook Classic,Books,99.0,Brand B,364
+21052,Face Wash Plus,Beauty,99.0,Brand C,389
+21053,Storage Box Basic,Home & Kitchen,99.0,Brand E,330
+21054,Water Bottle Premium,Home & Kitchen,163.29,Generic,332
+21055,Storage Box Classic,Home & Kitchen,99.0,Brand C,487
+21056,Monitor Classic,Electronics,414.4,Generic,132
+21057,Shampoo Classic,Beauty,99.0,Brand A,408
+21058,Hair Serum Basic,Beauty,133.77,Generic,398
+21059,Fiction Book Premium,Books,135.71,Brand B,305
+21060,Smartphone Pro,Electronics,726.5,Brand B,155
+21061,Sneakers Classic,Fashion,99.0,Brand C,435
+21062,Notebook Basic,Books,99.0,Brand A,465
+21063,Moisturizer Basic,Beauty,151.47,Brand D,251
+21064,Desk Lamp Plus,Home & Kitchen,130.84,Brand C,439
+21065,Perfume Plus,Beauty,99.0,Brand B,489
+21066,Exam Guide,Books,99.0,Brand B,53
+21067,Cookware Set Basic,Home & Kitchen,99.0,Brand B,80
+21068,Handbag Premium,Fashion,101.36,Generic,40
+21069,Children's Book Plus,Books,99.0,Brand A,241
+21070,Power Bank Premium,Electronics,117.68,Brand B,314
+21071,Face Wash Pro,Beauty,99.0,Brand D,286
+21072,Headphones Premium,Electronics,99.0,Brand A,171
+21073,Power Bank Plus,Electronics,163.33,Brand D,492
+21074,Hair Serum Premium,Beauty,99.0,Brand A,305
+21075,Sunglasses Basic,Fashion,99.0,Generic,274
+21076,Notebook Premium,Books,101.58,Brand D,249
+21077,Sunscreen Plus,Beauty,99.0,Brand E,452
+21078,Face Wash,Beauty,99.0,Brand E,381
+21079,Headphones Classic,Electronics,188.52,Brand D,195
+21080,Sunscreen Pro,Beauty,99.0,Brand A,174
+21081,Sunscreen Classic,Beauty,99.0,Brand C,312
+21082,Headphones Basic,Electronics,257.24,Generic,385
+21083,Monitor Plus,Electronics,494.63,Brand D,412
+21084,Smartwatch Classic,Electronics,147.07,Brand A,396
+21085,Power Bank Pro,Electronics,263.5,Generic,329
+21086,Monitor Basic,Electronics,111.98,Generic,488
+21087,Self Help Book,Books,99.0,Brand A,284
+21088,Sunscreen Pro,Beauty,99.0,Brand A,84
+21089,Yoga Mat Premium,Sports,99.0,Brand A,391
+21090,Perfume Pro,Beauty,99.0,Brand D,364
+21091,Handbag Plus,Fashion,99.0,Brand C,133
+21092,Sunscreen Plus,Beauty,99.0,Brand A,219
+21093,Desk Lamp Basic,Home & Kitchen,99.0,Brand B,106
+21094,Handbag Plus,Fashion,99.0,Generic,301
+21095,Face Wash Classic,Beauty,99.0,Brand C,462
+21096,Sunglasses Plus,Fashion,99.0,Brand A,92
+21097,Face Wash Plus,Beauty,99.0,Brand E,13
+21098,Jacket Classic,Fashion,241.23,Brand D,1
+21099,Fiction Book Premium,Books,166.58,Brand D,67
+21100,Cookware Set Plus,Home & Kitchen,99.0,Brand B,374
+21101,Mouse Pro,Electronics,133.1,Generic,77
+21102,Sunscreen Plus,Beauty,99.0,Brand B,346
+21103,Jacket Basic,Fashion,99.0,Brand C,191
+21104,Dumbbells,Sports,105.65,Brand B,208
+21105,Storage Box Premium,Home & Kitchen,165.95,Generic,362
+21106,Power Bank,Electronics,232.66,Generic,246
+21107,Headphones Basic,Electronics,1075.79,Brand E,460
+21108,Desk Lamp Pro,Home & Kitchen,99.0,Brand A,31
+21109,Bedsheet,Home & Kitchen,99.0,Brand C,118
+21110,Jeans Classic,Fashion,99.0,Brand C,227
+21111,Yoga Mat Classic,Sports,99.0,Brand A,57
+21112,Mixer Grinder Premium,Home & Kitchen,99.0,Brand D,402
+21113,Mouse Plus,Electronics,99.0,Brand C,178
+21114,Bedsheet,Home & Kitchen,99.0,Brand B,188
+21115,Storage Box Premium,Home & Kitchen,99.0,Brand A,350
+21116,Bedsheet Classic,Home & Kitchen,99.0,Brand A,386
+21117,Perfume Premium,Beauty,99.0,Brand D,12
+21118,Sneakers Premium,Fashion,99.0,Generic,479
+21119,Smartwatch Classic,Electronics,99.0,Brand A,380
+21120,Mixer Grinder Pro,Home & Kitchen,138.18,Brand B,226
+21121,Jeans Plus,Fashion,99.0,Brand D,424
+21122,Dress Basic,Fashion,99.0,Brand E,331
+21123,Jeans Basic,Fashion,99.0,Brand B,29
+21124,Moisturizer,Beauty,132.05,Brand C,273
+21125,Sunglasses Plus,Fashion,99.0,Brand B,404
+21126,Dumbbells,Sports,148.8,Brand E,96
+21127,Badminton Racket Basic,Sports,99.0,Brand C,416
+21128,Water Bottle Plus,Home & Kitchen,99.0,Brand C,385
+21129,Jacket Classic,Fashion,99.0,Brand E,199
+21130,Power Bank Premium,Electronics,99.0,Brand B,253
+21131,Moisturizer Basic,Beauty,99.0,Generic,165
+21132,Jeans Premium,Fashion,99.0,Generic,431
+21133,Exam Guide Basic,Books,99.0,Brand E,401
+21134,Hair Serum Pro,Beauty,99.0,Brand D,274
+21135,Perfume Premium,Beauty,99.0,Brand A,0
+21136,Self Help Book Pro,Books,138.92,Generic,436
+21137,Yoga Mat Pro,Sports,99.0,Brand B,298
+21138,Power Bank Pro,Electronics,99.0,Brand B,95
+21139,T-Shirt Pro,Fashion,99.0,Brand E,429
+21140,Moisturizer Premium,Beauty,99.0,Brand D,279
+21141,Laptop Pro,Electronics,239.19,Brand E,474
+21142,Jeans Classic,Fashion,108.43,Unknown,341
+21143,Headphones Pro,Electronics,99.0,Brand A,25
+21144,Face Wash Classic,Beauty,99.0,Generic,474
+21145,Dress Premium,Fashion,99.0,Brand C,216
+21146,Children's Book,Books,99.0,Brand C,402
+21147,Hair Serum Plus,Beauty,99.0,Brand D,248
+21148,Laptop Classic,Electronics,99.0,Brand B,390
+21149,Laptop Plus,Electronics,99.0,Brand B,9
+21150,Laptop Premium,Electronics,99.0,Brand B,348
+21151,Perfume Basic,Beauty,106.27,Brand D,485
+21152,Power Bank Basic,Electronics,197.85,Brand C,304
+21153,Yoga Mat Plus,Sports,99.0,Brand B,262
+21154,Storage Box Plus,Home & Kitchen,113.64,Brand A,205
+21155,Smartphone,Electronics,99.0,Brand A,150
+21156,Smartphone Premium,Electronics,175.03,Brand C,479
+21157,Hair Serum,Beauty,109.34,Generic,320
+21158,Self Help Book,Books,99.0,Brand C,474
+21159,Power Bank Basic,Electronics,99.0,Brand E,158
+21160,Yoga Mat Basic,Sports,99.0,Brand D,175
+21161,Perfume Basic,Beauty,99.0,Generic,468
+21162,Jeans Basic,Fashion,99.0,Brand A,67
+21163,Water Bottle Pro,Home & Kitchen,99.0,Generic,417
+21164,Storage Box Classic,Home & Kitchen,99.0,Brand E,433
+21165,Storage Box Basic,Home & Kitchen,99.0,Generic,261
+21166,Monitor,Electronics,151.2,Brand D,386
+21167,Dumbbells Plus,Sports,99.0,Brand D,124
+21168,Exam Guide Premium,Books,99.0,Generic,31
+21169,Perfume Classic,Beauty,99.0,Brand D,445
+21170,Fiction Book Premium,Books,99.0,Brand A,130
+21171,Smartwatch Plus,Electronics,128.7,Brand A,167
+21172,Handbag Plus,Fashion,99.0,Brand E,170
+21173,Laptop Classic,Electronics,99.0,Brand B,136
+21174,Dress Pro,Fashion,99.0,Brand D,479
+21175,Smartphone,Electronics,99.0,Brand C,484
+21176,Exam Guide Premium,Books,99.0,Brand E,90
+21177,Mixer Grinder Classic,Home & Kitchen,131.39,Brand C,58
+21178,Handbag Premium,Fashion,99.0,Brand D,174
+21179,Power Bank,Electronics,99.0,Brand E,73
+21180,Hair Serum Basic,Beauty,99.0,Generic,233
+21181,Handbag Pro,Fashion,139.82,Brand B,356
+21182,Jacket Classic,Fashion,99.0,Brand E,486
+21183,Storage Box,Home & Kitchen,99.0,Brand B,128
+21184,Smartwatch Premium,Electronics,310.99,Brand C,411
+21185,Mixer Grinder Basic,Home & Kitchen,102.85,Brand B,166
+21186,T-Shirt Premium,Fashion,125.94,Brand B,318
+21187,Laptop Pro,Electronics,99.0,Brand B,256
+21188,Jeans Plus,Fashion,99.0,Generic,134
+21189,Cookware Set Classic,Home & Kitchen,99.0,Unknown,360
+21190,Cookware Set,Home & Kitchen,99.0,Brand B,36
+21191,Storage Box Pro,Home & Kitchen,99.0,Brand D,176
+21192,Mixer Grinder,Home & Kitchen,99.0,Brand D,146
+21193,Monitor,Electronics,115.99,Brand E,79
+21194,T-Shirt Plus,Fashion,106.8,Brand B,11
+21195,Desk Lamp Plus,Home & Kitchen,99.0,Brand A,58
+21196,Smartphone Premium,Electronics,119.56,Generic,181
+21197,Storage Box Premium,Home & Kitchen,99.0,Generic,268
+21198,Desk Lamp Premium,Home & Kitchen,109.79,Generic,269
+21199,Sneakers,Fashion,134.27,Brand B,276
+21200,Mixer Grinder Classic,Home & Kitchen,146.82,Brand D,243
+21201,Smartwatch Premium,Electronics,99.0,Brand D,494
+21202,Badminton Racket,Sports,99.0,Brand E,12
+21203,Cookware Set Basic,Home & Kitchen,99.0,Brand B,329
+21204,Self Help Book,Books,99.0,Brand B,52
+21205,Dumbbells Basic,Sports,99.0,Generic,375
+21206,Power Bank Pro,Electronics,142.93,Generic,249
+21207,Moisturizer Basic,Beauty,99.0,Brand A,359
+21208,Power Bank Classic,Electronics,115.77,Brand C,463
+21209,Cricket Bat Premium,Sports,99.0,Brand E,265
+21210,Jeans Premium,Fashion,99.0,Brand A,121
+21211,Jacket Plus,Fashion,99.08,Brand C,137
+21212,Handbag Plus,Fashion,99.0,Brand B,153
+21213,Cookware Set Premium,Home & Kitchen,99.0,Brand D,283
+21214,Jacket Classic,Fashion,99.0,Brand A,420
+21215,Self Help Book Pro,Books,99.0,Brand E,188
+21216,Mouse Classic,Electronics,99.0,Brand B,381
+21217,Notebook,Books,99.0,Generic,313
+21218,Laptop Basic,Electronics,175.07,Brand D,129
+21219,Exam Guide Premium,Books,99.0,Generic,62
+21220,Water Bottle Premium,Home & Kitchen,99.0,Brand A,122
+21221,Water Bottle Basic,Home & Kitchen,99.0,Brand A,488
+21222,Smartwatch Plus,Electronics,215.59,Brand A,35
+21223,Shampoo Basic,Beauty,99.0,Brand B,274
+21224,Perfume Pro,Beauty,99.0,Brand E,174
+21225,Laptop Plus,Electronics,99.0,Brand A,441
+21226,Self Help Book Premium,Books,151.38,Brand E,267
+21227,Badminton Racket,Sports,99.0,Generic,117
+21228,Face Wash,Beauty,215.61,Brand B,182
+21229,Handbag Premium,Fashion,99.0,Brand C,200
+21230,Keyboard Basic,Electronics,99.0,Brand B,155
+21231,Children's Book Basic,Books,99.0,Brand C,155
+21232,Handbag,Fashion,99.0,Generic,371
+21233,Yoga Mat Premium,Sports,99.0,Brand E,83
+21234,Cookware Set Classic,Home & Kitchen,218.63,Brand A,372
+21235,Face Wash Pro,Beauty,99.0,Brand E,441
+21236,Mouse Basic,Electronics,262.57,Brand D,432
+21237,T-Shirt Plus,Fashion,99.0,Brand A,21
+21238,Moisturizer Premium,Beauty,99.0,Brand E,132
+21239,Jacket Pro,Fashion,99.0,Brand D,298
+21240,Power Bank,Electronics,114.32,Brand D,58
+21241,Water Bottle Pro,Home & Kitchen,99.0,Brand E,148
+21242,Smartphone Classic,Electronics,175.45,Brand D,24
+21243,Moisturizer Plus,Beauty,99.0,Generic,217
+21244,Face Wash Classic,Beauty,138.08,Brand B,230
+21245,Perfume Basic,Beauty,99.0,Brand A,351
+21246,Cookware Set Basic,Home & Kitchen,99.0,Generic,40
+21247,Sunglasses Premium,Fashion,99.0,Generic,295
+21248,Jacket,Fashion,99.0,Brand E,179
+21249,Handbag Classic,Fashion,99.0,Brand B,373
+21250,Moisturizer,Beauty,99.0,Brand D,234
+21251,Cricket Bat,Sports,123.4,Brand B,211
+21252,Mouse Premium,Electronics,99.0,Brand B,291
+21253,Children's Book Basic,Books,99.0,Brand E,242
+21254,Smartwatch,Electronics,216.6,Brand E,472
+21255,Self Help Book Plus,Books,99.0,Brand D,164
+21256,Laptop,Electronics,104.85,Generic,133
+21257,Moisturizer Classic,Beauty,99.0,Brand B,458
+21258,Mixer Grinder Classic,Home & Kitchen,99.0,Brand B,315
+21259,Sneakers Premium,Fashion,99.0,Brand A,193
+21260,Power Bank,Electronics,176.76,Brand C,69
+21261,Sunscreen,Beauty,99.0,Generic,426
+21262,Self Help Book,Books,99.0,Brand A,174
+21263,Keyboard,Electronics,199.21,Brand C,141
+21264,Water Bottle Plus,Home & Kitchen,114.13,Brand B,3
+21265,Moisturizer Classic,Beauty,99.0,Brand B,462
+21266,Jeans Classic,Fashion,125.36,Brand E,206
+21267,Smartphone Classic,Electronics,268.54,Brand E,122
+21268,Badminton Racket Plus,Sports,99.0,Brand D,490
+21269,Perfume Premium,Beauty,99.0,Brand B,262
+21270,Perfume Classic,Beauty,99.0,Brand E,461
+21271,Mixer Grinder,Home & Kitchen,99.0,Brand B,393
+21272,Power Bank Premium,Electronics,188.63,Brand D,337
+21273,Sneakers Plus,Fashion,99.0,Brand D,365
+21274,Exam Guide Pro,Books,99.0,Brand E,371
+21275,Yoga Mat Plus,Sports,99.0,Brand A,447
+21276,Monitor Pro,Electronics,99.0,Brand E,401
+21277,Smartwatch,Electronics,508.47,Generic,487
+21278,Sunglasses Premium,Fashion,99.0,Brand A,221
+21279,Water Bottle Pro,Home & Kitchen,99.0,Brand E,271
+21280,Smartphone,Electronics,188.77,Brand D,241
+21281,Moisturizer,Beauty,99.0,Brand A,362
+21282,Monitor,Electronics,200.1,Brand B,401
+21283,Handbag Classic,Fashion,122.02,Brand A,208
+21284,Running Shoes Plus,Sports,133.84,Brand B,447
+21285,Dress Basic,Fashion,99.0,Brand B,178
+21286,Children's Book Classic,Books,99.0,Brand D,268
+21287,Desk Lamp Premium,Home & Kitchen,99.0,Generic,172
+21288,Running Shoes Plus,Sports,99.0,Brand C,104
+21289,Mixer Grinder Basic,Home & Kitchen,99.0,Brand D,245
+21290,Self Help Book Premium,Books,99.0,Brand D,29
+21291,Children's Book Classic,Books,99.0,Brand A,345
+21292,Face Wash Pro,Beauty,99.0,Brand E,460
+21293,Perfume,Beauty,224.88,Brand C,402
+21294,Desk Lamp Basic,Home & Kitchen,99.0,Brand B,314
+21295,Dumbbells Classic,Sports,99.0,Brand C,496
+21296,Sunglasses Premium,Fashion,99.0,Brand E,178
+21297,Sunglasses Classic,Fashion,166.45,Brand A,474
+21298,Badminton Racket Basic,Sports,99.0,Unknown,103
+21299,Cricket Bat Basic,Sports,99.0,Brand E,479
+21300,Cookware Set Basic,Home & Kitchen,99.0,Brand A,355
+21301,Sunglasses Classic,Fashion,99.0,Brand C,450
+21302,Exam Guide Classic,Books,286.6,Brand B,197
+21303,Monitor,Electronics,99.0,Brand E,54
+21304,Shampoo,Beauty,99.0,Brand B,344
+21305,Running Shoes Basic,Sports,99.0,Brand B,249
+21306,Water Bottle Plus,Home & Kitchen,99.0,Brand D,278
+21307,Monitor Classic,Electronics,238.79,Generic,391
+21308,Sunglasses Premium,Fashion,99.0,Brand D,400
+21309,Keyboard Plus,Electronics,231.25,Generic,390
+21310,Smartwatch Premium,Electronics,99.0,Brand A,499
+21311,Handbag Basic,Fashion,99.0,Brand D,138
+21312,Water Bottle Premium,Home & Kitchen,99.0,Brand B,110
+21313,Monitor Plus,Electronics,132.34,Brand A,374
+21314,Storage Box,Home & Kitchen,99.0,Brand C,307
+21315,Desk Lamp Pro,Home & Kitchen,99.0,Brand A,87
+21316,T-Shirt,Fashion,99.0,Brand D,2
+21317,Mouse Premium,Electronics,483.88,Brand C,35
+21318,Sunscreen Premium,Beauty,99.0,Brand D,372
+21319,Children's Book Classic,Books,99.0,Brand B,24
+21320,Water Bottle Premium,Home & Kitchen,99.0,Brand E,202
+21321,Bedsheet Premium,Home & Kitchen,99.0,Brand A,408
+21322,Moisturizer,Beauty,99.0,Brand B,222
+21323,Sneakers Basic,Fashion,99.0,Brand C,153
+21324,Cookware Set,Home & Kitchen,99.0,Brand A,444
+21325,Headphones Basic,Electronics,146.59,Brand B,251
+21326,Keyboard Plus,Electronics,115.96,Brand E,357
+21327,Dumbbells Basic,Sports,183.1,Brand E,165
+21328,Bedsheet Pro,Home & Kitchen,99.0,Brand B,57
+21329,Dress Basic,Fashion,99.0,Generic,412
+21330,Running Shoes Plus,Sports,139.16,Brand E,253
+21331,Keyboard Basic,Electronics,113.12,Brand C,434
+21332,Running Shoes Pro,Sports,99.0,Brand D,106
+21333,Face Wash Basic,Beauty,99.0,Generic,385
+21334,Jeans Basic,Fashion,103.13,Generic,149
+21335,Laptop Pro,Electronics,307.37,Brand C,192
+21336,Notebook Plus,Books,99.0,Brand B,53
+21337,Smartphone Plus,Electronics,99.0,Brand A,330
+21338,Exam Guide,Books,99.0,Brand B,203
+21339,Smartphone Plus,Electronics,235.51,Generic,315
+21340,Desk Lamp Premium,Home & Kitchen,99.0,Brand C,56
+21341,Yoga Mat Plus,Sports,99.0,Brand E,145
+21342,Laptop Classic,Electronics,235.33,Brand D,450
+21343,T-Shirt Pro,Fashion,99.0,Generic,55
+21344,Cookware Set Basic,Home & Kitchen,99.0,Brand C,200
+21345,Self Help Book Classic,Books,99.0,Brand C,12
+21346,Face Wash Classic,Beauty,99.0,Brand D,52
+21347,Face Wash Pro,Beauty,99.0,Brand B,348
+21348,Jeans Plus,Fashion,129.65,Brand D,211
+21349,Children's Book,Books,99.0,Brand C,153
+21350,Self Help Book Premium,Books,99.0,Brand B,450
+21351,Exam Guide Pro,Books,99.0,Brand A,332
+21352,Exam Guide Pro,Books,99.0,Brand C,251
+21353,Smartwatch Classic,Electronics,156.29,Brand E,94
+21354,Children's Book Basic,Books,99.0,Generic,269
+21355,Sneakers,Fashion,174.58,Brand D,151
+21356,Smartphone Premium,Electronics,99.0,Brand D,255
+21357,Jacket,Fashion,99.0,Generic,272
+21358,Hair Serum Pro,Beauty,99.0,Brand E,175
+21359,Laptop Plus,Electronics,154.62,Brand A,403
+21360,Headphones Basic,Electronics,157.23,Brand A,154
+21361,Cookware Set Classic,Home & Kitchen,99.0,Brand B,227
+21362,Water Bottle Plus,Home & Kitchen,172.79,Brand D,298
+21363,Sunscreen Premium,Beauty,99.0,Brand A,337
+21364,Perfume Classic,Beauty,109.8,Brand A,45
+21365,Jeans Premium,Fashion,99.0,Brand D,12
+21366,Smartphone Pro,Electronics,117.12,Brand E,349
+21367,Smartwatch Pro,Electronics,107.91,Brand C,492
+21368,Cricket Bat Pro,Sports,99.0,Brand A,475
+21369,Notebook Premium,Books,99.0,Brand C,365
+21370,Shampoo,Beauty,99.0,Generic,325
+21371,Yoga Mat,Sports,99.0,Brand B,500
+21372,Dress Plus,Fashion,99.0,Brand E,59
+21373,T-Shirt,Fashion,99.0,Brand A,460
+21374,Headphones Basic,Electronics,101.98,Brand C,275
+21375,Badminton Racket Plus,Sports,99.0,Brand C,427
+21376,Water Bottle Pro,Home & Kitchen,99.0,Brand D,368
+21377,T-Shirt Classic,Fashion,102.55,Generic,28
+21378,Perfume,Beauty,101.7,Brand C,40
+21379,Desk Lamp Premium,Home & Kitchen,99.0,Brand B,468
+21380,Laptop Basic,Electronics,142.76,Generic,411
+21381,Power Bank Classic,Electronics,119.21,Brand A,26
+21382,Monitor,Electronics,195.4,Generic,211
+21383,Bedsheet Premium,Home & Kitchen,99.0,Brand B,437
+21384,Face Wash Basic,Beauty,137.31,Brand C,354
+21385,Sneakers Pro,Fashion,99.0,Brand A,356
+21386,Keyboard Pro,Electronics,409.3,Brand C,491
+21387,Keyboard Classic,Electronics,99.0,Generic,133
+21388,Laptop Premium,Electronics,236.65,Brand A,446
+21389,Laptop Premium,Electronics,135.97,Brand A,347
+21390,Running Shoes,Sports,99.0,Brand E,105
+21391,Moisturizer,Beauty,132.89,Brand D,175
+21392,Dress Premium,Fashion,562.8,Brand D,143
+21393,Desk Lamp Basic,Home & Kitchen,99.0,Brand C,279
+21394,Power Bank Premium,Electronics,181.39,Generic,384
+21395,Notebook Classic,Books,99.0,Brand A,236
+21396,Bedsheet Pro,Home & Kitchen,99.0,Generic,136
+21397,Exam Guide Pro,Books,123.52,Generic,28
+21398,Headphones Pro,Electronics,844.61,Brand B,486
+21399,Keyboard,Electronics,224.32,Brand C,492
+21400,Mouse Classic,Electronics,122.26,Brand A,175
+21401,Running Shoes,Sports,131.59,Brand C,2
+21402,Mouse Basic,Electronics,200.09,Brand A,70
+21403,Jeans Plus,Fashion,99.0,Brand E,147
+21404,Moisturizer Classic,Beauty,99.0,Brand D,380
+21405,Mouse Premium,Electronics,99.0,Brand B,41
+21406,Running Shoes Plus,Sports,99.0,Brand C,5
+21407,Water Bottle Premium,Home & Kitchen,99.0,Generic,259
+21408,Fiction Book Premium,Books,99.0,Brand E,34
+21409,Jeans Classic,Fashion,99.0,Brand C,379
+21410,Exam Guide Premium,Books,176.32,Brand C,295
+21411,Headphones Pro,Electronics,99.0,Brand E,366
+21412,Sunscreen,Beauty,99.0,Brand E,43
+21413,Keyboard,Electronics,276.49,Brand D,181
+21414,Monitor Premium,Electronics,253.22,Brand E,186
+21415,Hair Serum Classic,Beauty,124.45,Generic,25
+21416,Headphones Plus,Electronics,419.71,Brand B,112
+21417,Dress Plus,Fashion,99.0,Generic,0
+21418,Face Wash,Beauty,99.0,Generic,423
+21419,Laptop Pro,Electronics,99.0,Brand B,195
+21420,Handbag Premium,Fashion,99.0,Generic,471
+21421,Dress Premium,Fashion,99.0,Brand E,200
+21422,Water Bottle Premium,Home & Kitchen,99.0,Brand E,311
+21423,Desk Lamp Plus,Home & Kitchen,115.74,Generic,40
+21424,Badminton Racket Classic,Sports,99.0,Brand E,90
+21425,Hair Serum Plus,Beauty,99.0,Brand D,274
+21426,Badminton Racket Pro,Sports,99.0,Brand E,387
+21427,Cookware Set Plus,Home & Kitchen,99.0,Brand D,230
+21428,Keyboard Basic,Electronics,381.69,Generic,74
+21429,Perfume Pro,Beauty,99.0,Brand C,476
+21430,Exam Guide Classic,Books,99.0,Brand C,333
+21431,Smartphone Classic,Electronics,360.7,Brand C,474
+21432,Handbag Premium,Fashion,99.0,Brand B,237
+21433,Mouse Pro,Electronics,223.26,Brand B,316
+21434,Jeans Basic,Fashion,99.0,Brand C,5
+21435,Perfume Premium,Beauty,99.0,Generic,487
+21436,Jeans Classic,Fashion,99.0,Brand D,293
+21437,Mixer Grinder,Home & Kitchen,99.0,Brand C,431
+21438,Desk Lamp Premium,Home & Kitchen,145.05,Brand B,164
+21439,Running Shoes Premium,Sports,99.0,Brand D,230
+21440,Keyboard Plus,Electronics,99.0,Generic,471
+21441,Monitor Pro,Electronics,99.0,Brand D,323
+21442,Moisturizer Pro,Beauty,99.0,Brand A,251
+21443,Cookware Set,Home & Kitchen,99.0,Brand E,384
+21444,Cricket Bat Basic,Sports,99.0,Brand E,1
+21445,Children's Book Pro,Books,99.0,Brand A,242
+21446,Shampoo Pro,Beauty,99.0,Generic,179
+21447,Sneakers Pro,Fashion,99.0,Generic,48
+21448,Smartwatch,Electronics,99.0,Brand E,198
+21449,Smartwatch Basic,Electronics,205.61,Generic,462
+21450,Jeans Premium,Fashion,99.0,Brand E,320
+21451,Exam Guide Plus,Books,99.0,Brand A,228
+21452,Bedsheet Pro,Home & Kitchen,99.0,Brand E,61
+21453,Running Shoes Pro,Sports,99.0,Brand E,189
+21454,Water Bottle Premium,Home & Kitchen,321.31,Generic,437
+21455,Mixer Grinder Basic,Home & Kitchen,99.0,Generic,247
+21456,Mixer Grinder Plus,Home & Kitchen,99.0,Brand E,361
+21457,Badminton Racket Pro,Sports,99.0,Brand C,241
+21458,Shampoo Pro,Beauty,248.7,Brand D,482
+21459,Badminton Racket Basic,Sports,99.0,Brand C,147
+21460,Yoga Mat Premium,Sports,99.0,Brand E,219
+21461,Yoga Mat Plus,Sports,99.0,Generic,345
+21462,Headphones Pro,Electronics,127.2,Brand C,5
+21463,Bedsheet,Home & Kitchen,118.32,Generic,129
+21464,Face Wash Pro,Beauty,99.0,Brand E,130
+21465,Yoga Mat Premium,Sports,99.0,Brand D,149
+21466,Fiction Book Premium,Books,125.68,Generic,355
+21467,Smartwatch Basic,Electronics,191.25,Brand A,272
+21468,Laptop Pro,Electronics,334.1,Brand B,499
+21469,Laptop Premium,Electronics,155.51,Brand C,388
+21470,Face Wash Premium,Beauty,99.0,Brand E,24
+21471,Dumbbells Plus,Sports,99.0,Brand D,76
+21472,Dress Plus,Fashion,99.0,Generic,202
+21473,Water Bottle,Home & Kitchen,99.0,Generic,498
+21474,Headphones Pro,Electronics,99.0,Generic,299
+21475,Running Shoes Plus,Sports,111.43,Generic,382
+21476,Laptop Pro,Electronics,159.57,Brand A,176
+21477,Perfume Plus,Beauty,99.0,Brand A,388
+21478,Laptop Pro,Electronics,99.0,Brand C,303
+21479,Water Bottle Pro,Home & Kitchen,99.0,Brand A,44
+21480,Water Bottle Basic,Home & Kitchen,99.0,Brand E,92
+21481,Monitor Basic,Electronics,334.19,Brand C,64
+21482,Dress Pro,Fashion,99.0,Brand C,463
+21483,Laptop,Electronics,103.16,Brand C,205
+21484,Perfume Basic,Beauty,99.0,Brand C,235
+21485,Sneakers Plus,Fashion,99.0,Brand B,400
+21486,Keyboard Plus,Electronics,99.0,Brand A,135
+21487,Dress Basic,Fashion,99.0,Brand D,279
+21488,Storage Box,Home & Kitchen,99.0,Brand E,219
+21489,Smartwatch Premium,Electronics,99.0,Brand E,380
+21490,Keyboard Classic,Electronics,353.35,Brand C,181
+21491,Jacket Basic,Fashion,99.0,Generic,82
+21492,Jeans Basic,Fashion,99.0,Brand A,367
+21493,Self Help Book,Books,105.41,Brand C,373
+21494,Cookware Set Premium,Home & Kitchen,99.0,Brand D,368
+21495,Sunglasses Premium,Fashion,99.0,Brand C,125
+21496,Bedsheet Pro,Home & Kitchen,99.0,Generic,329
+21497,Bedsheet Premium,Home & Kitchen,99.0,Brand C,312
+21498,Fiction Book Basic,Books,99.0,Brand B,64
+21499,Jeans Basic,Fashion,99.0,Brand D,18
+21500,Shampoo Pro,Beauty,99.0,Generic,481
+21501,Sunglasses Plus,Fashion,99.0,Generic,151
+21502,Shampoo Basic,Beauty,99.0,Brand E,211
+21503,Face Wash Pro,Beauty,99.0,Brand B,382
+21504,Keyboard Pro,Electronics,99.0,Generic,463
+21505,Laptop,Electronics,107.42,Brand B,462
+21506,Shampoo Basic,Beauty,99.0,Generic,12
+21507,Sneakers Pro,Fashion,99.0,Brand A,117
+21508,Mouse,Electronics,135.2,Generic,237
+21509,Hair Serum,Beauty,99.0,Brand A,161
+21510,Yoga Mat Classic,Sports,99.0,Brand D,79
+21511,Dumbbells Classic,Sports,99.0,Brand B,318
+21512,Jeans,Fashion,163.48,Brand B,385
+21513,Jacket,Fashion,99.0,Brand C,163
+21514,Face Wash,Beauty,220.38,Brand E,239
+21515,Jacket Basic,Fashion,99.0,Brand E,466
+21516,Perfume Classic,Beauty,99.0,Brand C,11
+21517,Jeans,Fashion,133.25,Brand E,290
+21518,Sneakers Basic,Fashion,99.0,Generic,42
+21519,Water Bottle,Home & Kitchen,99.0,Brand D,430
+21520,Smartwatch Classic,Electronics,205.84,Brand E,159
+21521,Laptop Plus,Electronics,99.0,Brand D,444
+21522,Headphones Basic,Electronics,112.05,Brand B,150
+21523,Dress Plus,Fashion,99.0,Brand E,465
+21524,Cricket Bat Plus,Sports,99.0,Brand E,414
+21525,Children's Book Pro,Books,99.0,Brand B,195
+21526,Smartphone Pro,Electronics,190.88,Brand E,429
+21527,Keyboard Plus,Electronics,99.0,Brand C,149
+21528,Sunglasses Basic,Fashion,99.0,Brand D,420
+21529,Badminton Racket Premium,Sports,99.0,Brand B,394
+21530,Water Bottle Plus,Home & Kitchen,99.0,Brand A,250
+21531,Moisturizer Basic,Beauty,99.0,Brand A,444
+21532,Monitor Plus,Electronics,395.85,Brand B,164
+21533,Keyboard Premium,Electronics,533.17,Brand A,115
+21534,Headphones Pro,Electronics,99.0,Brand E,408
+21535,Cricket Bat Premium,Sports,99.0,Brand A,393
+21536,Bedsheet Pro,Home & Kitchen,99.0,Brand D,220
+21537,Water Bottle Premium,Home & Kitchen,99.0,Brand A,308
+21538,Smartphone Pro,Electronics,299.0,Brand E,487
+21539,T-Shirt Premium,Fashion,99.0,Brand D,114
+21540,Jeans Basic,Fashion,99.0,Brand A,249
+21541,Bedsheet Premium,Home & Kitchen,99.0,Brand C,225
+21542,Power Bank Premium,Electronics,380.38,Brand A,287
+21543,Mouse Premium,Electronics,99.0,Generic,171
+21544,Sunglasses Pro,Fashion,99.0,Brand A,340
+21545,Cookware Set Premium,Home & Kitchen,99.0,Brand A,25
+21546,Mouse Pro,Electronics,122.32,Brand E,54
+21547,Exam Guide Basic,Books,99.0,Brand A,402
+21548,Keyboard,Electronics,99.0,Generic,73
+21549,Power Bank,Electronics,99.0,Brand B,242
+21550,Smartwatch Plus,Electronics,99.0,Unknown,316
+21551,Face Wash Classic,Beauty,99.0,Brand B,5
+21552,Sunglasses Plus,Fashion,99.0,Brand B,341
+21553,Notebook Plus,Books,117.79,Brand C,269
+21554,Monitor Premium,Electronics,99.0,Brand A,380
+21555,Mixer Grinder Classic,Home & Kitchen,99.0,Generic,488
+21556,Desk Lamp Basic,Home & Kitchen,99.0,Brand A,141
+21557,Jacket Premium,Fashion,99.0,Brand C,116
+21558,Children's Book Basic,Books,99.0,Brand E,93
+21559,Sneakers Premium,Fashion,134.0,Brand A,287
+21560,T-Shirt Basic,Fashion,99.0,Brand B,407
+21561,Perfume Pro,Beauty,99.0,Brand D,272
+21562,Self Help Book Classic,Books,99.0,Brand C,354
+21563,Smartwatch Classic,Electronics,300.64,Brand D,80
+21564,Monitor Classic,Electronics,99.0,Brand D,74
+21565,Dress,Fashion,109.28,Generic,212
+21566,Perfume Basic,Beauty,99.0,Brand B,363
+21567,Water Bottle Basic,Home & Kitchen,99.0,Brand B,86
+21568,Monitor,Electronics,99.0,Brand C,103
+21569,Hair Serum Plus,Beauty,99.0,Brand C,28
+21570,Dumbbells,Sports,99.0,Brand E,108
+21571,Moisturizer Premium,Beauty,99.0,Brand E,243
+21572,Mouse Plus,Electronics,99.0,Generic,200
+21573,Sunglasses Pro,Fashion,99.0,Brand D,38
+21574,Laptop Classic,Electronics,354.32,Generic,313
+21575,Perfume,Beauty,99.54,Generic,182
+21576,Dumbbells,Sports,99.0,Brand A,185
+21577,Headphones,Electronics,193.53,Brand C,103
+21578,Shampoo,Beauty,99.0,Brand B,197
+21579,Smartwatch Premium,Electronics,191.27,Brand C,255
+21580,Hair Serum Plus,Beauty,99.0,Brand E,162
+21581,Badminton Racket Pro,Sports,99.0,Brand D,98
+21582,Dumbbells,Sports,99.0,Brand D,240
+21583,Mixer Grinder Premium,Home & Kitchen,99.0,Brand B,72
+21584,Handbag Pro,Fashion,99.0,Generic,151
+21585,Water Bottle Premium,Home & Kitchen,114.16,Generic,205
+21586,Handbag Basic,Fashion,99.0,Generic,19
+21587,Notebook Pro,Books,132.57,Brand E,200
+21588,Headphones Premium,Electronics,99.0,Generic,203
+21589,Hair Serum Pro,Beauty,99.0,Brand A,363
+21590,Cricket Bat Premium,Sports,99.0,Brand C,313
+21591,Water Bottle Basic,Home & Kitchen,99.0,Brand B,187
+21592,Desk Lamp Plus,Home & Kitchen,99.0,Brand C,198
+21593,Smartphone,Electronics,333.53,Generic,18
+21594,Dress,Fashion,123.85,Brand B,242
+21595,Water Bottle Plus,Home & Kitchen,99.0,Brand C,98
+21596,Perfume Plus,Beauty,102.77,Generic,464
+21597,T-Shirt Pro,Fashion,99.0,Brand C,124
+21598,Sunscreen Premium,Beauty,99.0,Generic,210
+21599,Mixer Grinder,Home & Kitchen,191.21,Brand E,289
+21600,Dumbbells Plus,Sports,99.0,Brand B,328
+21601,Headphones,Electronics,162.77,Brand E,214
+21602,Water Bottle Pro,Home & Kitchen,99.0,Brand D,448
+21603,Mixer Grinder Pro,Home & Kitchen,99.0,Generic,221
+21604,Smartwatch Basic,Electronics,99.0,Brand D,191
+21605,Jacket Classic,Fashion,99.0,Brand D,216
+21606,Cricket Bat Plus,Sports,99.0,Brand C,498
+21607,Smartwatch,Electronics,738.68,Brand E,389
+21608,Headphones Basic,Electronics,194.76,Brand D,201
+21609,Moisturizer Pro,Beauty,99.0,Brand E,35
+21610,Handbag Basic,Fashion,99.0,Brand C,122
+21611,Dress Premium,Fashion,99.0,Brand E,442
+21612,Self Help Book Plus,Books,99.0,Brand C,432
+21613,Desk Lamp,Home & Kitchen,105.76,Brand A,494
+21614,Running Shoes Plus,Sports,99.0,Brand A,186
+21615,Jeans Plus,Fashion,99.0,Brand E,434
+21616,Power Bank,Electronics,165.42,Brand E,425
+21617,Sunglasses Basic,Fashion,115.05,Brand E,139
+21618,Jeans Pro,Fashion,99.0,Brand B,318
+21619,Laptop,Electronics,248.39,Brand A,418
+21620,Moisturizer Plus,Beauty,99.0,Brand D,275
+21621,Storage Box Premium,Home & Kitchen,99.0,Generic,358
+21622,Smartphone Premium,Electronics,236.28,Generic,471
+21623,Children's Book Basic,Books,99.0,Brand B,301
+21624,Shampoo Plus,Beauty,107.03,Brand C,70
+21625,Children's Book Pro,Books,101.74,Brand B,351
+21626,Sunglasses Plus,Fashion,99.0,Brand D,167
+21627,Monitor Classic,Electronics,111.42,Brand A,26
+21628,Mouse Pro,Electronics,246.8,Brand D,243
+21629,Exam Guide Pro,Books,99.0,Brand D,239
+21630,Desk Lamp Classic,Home & Kitchen,99.0,Generic,211
+21631,Desk Lamp Plus,Home & Kitchen,99.0,Brand B,351
+21632,Face Wash Classic,Beauty,99.0,Brand B,421
+21633,Mixer Grinder Premium,Home & Kitchen,99.0,Brand D,14
+21634,Bedsheet Classic,Home & Kitchen,108.78,Brand A,309
+21635,Smartphone Premium,Electronics,419.0,Generic,286
+21636,Dumbbells Classic,Sports,99.0,Brand B,51
+21637,Power Bank,Electronics,99.0,Brand E,406
+21638,Cricket Bat Basic,Sports,99.0,Brand D,56
+21639,Desk Lamp Premium,Home & Kitchen,99.0,Brand A,132
+21640,Self Help Book Classic,Books,99.0,Brand C,222
+21641,Sneakers,Fashion,99.0,Generic,219
+21642,Smartphone,Electronics,298.52,Brand A,131
+21643,Monitor Plus,Electronics,547.85,Brand E,486
+21644,Dumbbells Pro,Sports,99.0,Generic,400
+21645,Moisturizer Plus,Beauty,99.0,Brand A,496
+21646,Children's Book Classic,Books,99.0,Brand E,188
+21647,Bedsheet Basic,Home & Kitchen,99.0,Brand E,355
+21648,Children's Book Premium,Books,99.0,Brand B,113
+21649,Bedsheet,Home & Kitchen,99.0,Brand A,445
+21650,Dress Classic,Fashion,123.28,Brand D,444
+21651,Sneakers Pro,Fashion,112.35,Brand A,233
+21652,Smartwatch Pro,Electronics,239.46,Brand A,372
+21653,Power Bank Classic,Electronics,99.02,Brand D,340
+21654,Dress Premium,Fashion,99.0,Brand C,68
+21655,Sunscreen Classic,Beauty,99.0,Brand B,390
+21656,Laptop Pro,Electronics,158.39,Brand A,71
+21657,Cricket Bat Classic,Sports,99.0,Brand C,77
+21658,Laptop Premium,Electronics,151.17,Brand D,285
+21659,Children's Book,Books,99.0,Brand E,251
+21660,Smartwatch Pro,Electronics,218.21,Brand C,496
+21661,Shampoo Plus,Beauty,99.0,Brand D,136
+21662,Jacket Basic,Fashion,99.0,Brand C,266
+21663,Storage Box Plus,Home & Kitchen,106.26,Brand A,231
+21664,Smartwatch Basic,Electronics,374.32,Brand A,286
+21665,Cookware Set,Home & Kitchen,253.83,Brand A,420
+21666,Laptop Plus,Electronics,160.14,Brand A,451
+21667,Self Help Book Premium,Books,99.0,Brand D,80
+21668,Sunglasses Basic,Fashion,99.0,Generic,388
+21669,Mouse Premium,Electronics,170.19,Brand A,440
+21670,Dumbbells Premium,Sports,99.0,Brand D,392
+21671,Monitor Premium,Electronics,99.7,Generic,227
+21672,Keyboard Pro,Electronics,251.55,Brand B,313
+21673,Notebook Basic,Books,105.37,Brand A,336
+21674,Notebook Plus,Books,99.0,Brand C,8
+21675,Sneakers Pro,Fashion,99.0,Brand D,71
+21676,Sunglasses Basic,Fashion,99.0,Brand A,477
+21677,Notebook Basic,Books,99.0,Brand E,218
+21678,Jacket Premium,Fashion,99.0,Brand B,97
+21679,Monitor Classic,Electronics,99.0,Generic,317
+21680,Power Bank Classic,Electronics,190.25,Generic,394
+21681,Sunglasses Premium,Fashion,99.0,Brand E,11
+21682,Sunscreen,Beauty,99.0,Brand A,376
+21683,Bedsheet Pro,Home & Kitchen,99.1,Brand D,240
+21684,Moisturizer Classic,Beauty,99.0,Brand B,345
+21685,Handbag,Fashion,99.0,Generic,106
+21686,Jacket Pro,Fashion,99.0,Brand E,219
+21687,Self Help Book Plus,Books,99.0,Brand C,382
+21688,Headphones Basic,Electronics,184.75,Brand E,116
+21689,Water Bottle Basic,Home & Kitchen,99.0,Generic,383
+21690,Sunscreen Classic,Beauty,99.0,Brand A,492
+21691,Monitor Premium,Electronics,140.81,Brand E,413
+21692,Bedsheet Basic,Home & Kitchen,99.0,Brand A,38
+21693,Perfume Classic,Beauty,99.0,Brand A,297
+21694,Water Bottle Plus,Home & Kitchen,99.0,Brand A,63
+21695,Keyboard Plus,Electronics,794.35,Brand A,83
+21696,Hair Serum Premium,Beauty,113.53,Brand B,235
+21697,T-Shirt Plus,Fashion,99.0,Brand C,231
+21698,Jacket Plus,Fashion,99.0,Brand C,22
+21699,Sunglasses,Fashion,99.0,Brand D,67
+21700,Storage Box Pro,Home & Kitchen,99.0,Brand E,13
+21701,Water Bottle Pro,Home & Kitchen,99.0,Brand E,76
+21702,Cookware Set Plus,Home & Kitchen,99.0,Brand A,435
+21703,Power Bank Pro,Electronics,105.94,Brand A,206
+21704,Sunglasses Premium,Fashion,99.0,Brand E,239
+21705,Headphones Plus,Electronics,158.13,Generic,225
+21706,Dress Premium,Fashion,99.0,Brand C,221
+21707,Monitor,Electronics,208.81,Brand D,419
+21708,Smartphone Classic,Electronics,103.84,Brand D,464
+21709,Monitor Basic,Electronics,156.85,Brand D,106
+21710,Mouse Pro,Electronics,216.54,Brand E,335
+21711,Jacket Basic,Fashion,201.62,Brand A,262
+21712,Exam Guide Basic,Books,99.0,Brand C,235
+21713,Cricket Bat Plus,Sports,99.0,Brand D,86
+21714,Fiction Book Pro,Books,112.72,Brand B,344
+21715,Handbag Basic,Fashion,99.0,Generic,184
+21716,Dress Basic,Fashion,99.0,Generic,370
+21717,Perfume Pro,Beauty,155.2,Brand C,332
+21718,Yoga Mat Plus,Sports,99.0,Brand E,308
+21719,Desk Lamp Basic,Home & Kitchen,99.0,Brand A,205
+21720,Jeans Pro,Fashion,99.0,Brand E,327
+21721,Keyboard Plus,Electronics,110.9,Brand A,438
+21722,Mixer Grinder Classic,Home & Kitchen,99.0,Brand B,70
+21723,Jeans Classic,Fashion,99.0,Brand A,95
+21724,Power Bank Pro,Electronics,110.72,Brand C,136
+21725,Desk Lamp Plus,Home & Kitchen,99.0,Brand E,105
+21726,Sneakers Plus,Fashion,99.0,Generic,288
+21727,Notebook Premium,Books,99.0,Brand C,151
+21728,Water Bottle Pro,Home & Kitchen,99.0,Generic,430
+21729,Handbag Pro,Fashion,99.0,Brand B,215
+21730,Jeans,Fashion,99.0,Brand B,213
+21731,Jacket Basic,Fashion,99.0,Generic,105
+21732,Cookware Set Premium,Home & Kitchen,99.0,Brand A,54
+21733,Jeans Premium,Fashion,99.0,Brand D,73
+21734,Sunglasses Classic,Fashion,99.0,Brand D,446
+21735,Sunscreen,Beauty,118.19,Brand D,25
+21736,Keyboard Premium,Electronics,99.0,Brand D,342
+21737,Mouse Basic,Electronics,99.0,Brand B,44
+21738,Exam Guide Pro,Books,99.0,Brand D,99
+21739,Yoga Mat Classic,Sports,99.0,Brand D,105
+21740,Keyboard Plus,Electronics,99.0,Brand E,0
+21741,Bedsheet Basic,Home & Kitchen,99.0,Brand E,151
+21742,Children's Book Plus,Books,99.0,Brand A,284
+21743,Headphones,Electronics,123.13,Brand E,306
+21744,Bedsheet Premium,Home & Kitchen,99.0,Brand C,62
+21745,Notebook Plus,Books,129.38,Brand D,436
+21746,Power Bank Plus,Electronics,99.0,Generic,461
+21747,Dumbbells,Sports,143.91,Brand D,240
+21748,Children's Book,Books,99.0,Brand B,89
+21749,Sneakers Premium,Fashion,99.0,Brand C,103
+21750,Notebook Pro,Books,99.0,Generic,317
+21751,Fiction Book Classic,Books,99.0,Brand B,437
+21752,Smartphone Plus,Electronics,186.23,Brand A,279
+21753,Desk Lamp Premium,Home & Kitchen,99.0,Brand B,61
+21754,Monitor Pro,Electronics,133.1,Brand B,25
+21755,Fiction Book Classic,Books,99.0,Brand C,51
+21756,Notebook,Books,99.0,Brand E,99
+21757,Sunscreen Classic,Beauty,136.85,Brand D,241
+21758,Fiction Book Premium,Books,99.0,Brand C,378
+21759,Sunglasses Pro,Fashion,99.0,Generic,209
+21760,Perfume Plus,Beauty,99.0,Generic,256
+21761,Jeans Basic,Fashion,172.15,Brand D,299
+21762,Badminton Racket Premium,Sports,104.52,Brand C,133
+21763,Keyboard Classic,Electronics,216.23,Brand B,202
+21764,Dress Plus,Fashion,99.0,Brand B,19
+21765,Mixer Grinder Classic,Home & Kitchen,99.0,Brand B,357
+21766,Cookware Set Premium,Home & Kitchen,99.0,Generic,443
+21767,T-Shirt Premium,Fashion,99.0,Brand D,112
+21768,Dumbbells Basic,Sports,99.0,Brand A,47
+21769,Keyboard,Electronics,176.37,Brand C,318
+21770,Handbag Basic,Fashion,99.0,Generic,124
+21771,Jacket Pro,Fashion,141.48,Brand E,470
+21772,Storage Box Basic,Home & Kitchen,99.0,Brand A,281
+21773,Sunglasses,Fashion,99.0,Brand A,119
+21774,Bedsheet Premium,Home & Kitchen,99.0,Brand C,437
+21775,Smartwatch Plus,Electronics,131.68,Brand B,133
+21776,Laptop Basic,Electronics,145.79,Brand A,168
+21777,Face Wash Classic,Beauty,99.0,Generic,459
+21778,Moisturizer Basic,Beauty,99.0,Brand E,168
+21779,Moisturizer Classic,Beauty,99.0,Brand D,345
+21780,Storage Box,Home & Kitchen,99.0,Brand E,367
+21781,Storage Box Classic,Home & Kitchen,99.0,Brand A,181
+21782,Perfume Classic,Beauty,99.0,Brand E,466
+21783,Mixer Grinder Premium,Home & Kitchen,99.0,Brand C,214
+21784,Jacket,Fashion,99.0,Brand B,188
+21785,Smartphone Plus,Electronics,130.16,Brand B,464
+21786,Shampoo Premium,Beauty,99.0,Brand C,222
+21787,Smartphone Classic,Electronics,181.1,Generic,223
+21788,Moisturizer,Beauty,99.0,Brand C,213
+21789,Sunglasses Pro,Fashion,99.0,Generic,244
+21790,Perfume Premium,Beauty,99.0,Brand E,368
+21791,Perfume Plus,Beauty,99.0,Brand A,257
+21792,Perfume Pro,Beauty,99.0,Brand A,310
+21793,Handbag Pro,Fashion,99.0,Brand D,288
+21794,Headphones Classic,Electronics,193.97,Brand D,274
+21795,Badminton Racket Basic,Sports,128.74,Brand D,388
+21796,Jacket Pro,Fashion,99.0,Brand E,428
+21797,Exam Guide Plus,Books,99.0,Brand D,81
+21798,Headphones Premium,Electronics,699.26,Generic,92
+21799,T-Shirt Basic,Fashion,99.0,Brand B,258
+21800,Cookware Set Plus,Home & Kitchen,99.0,Brand B,378
+21801,Monitor Basic,Electronics,127.05,Brand D,290
+21802,Exam Guide Basic,Books,99.0,Brand A,429
+21803,Perfume Classic,Beauty,99.0,Brand A,232
+21804,Running Shoes Premium,Sports,99.0,Brand C,257
+21805,Handbag Plus,Fashion,99.0,Generic,231
+21806,Sunglasses Classic,Fashion,327.47,Brand A,215
+21807,Laptop Classic,Electronics,197.55,Brand E,295
+21808,Badminton Racket Pro,Sports,99.0,Brand C,491
+21809,Desk Lamp Plus,Home & Kitchen,99.0,Brand C,303
+21810,Handbag Premium,Fashion,102.92,Brand A,95
+21811,Power Bank,Electronics,99.0,Brand B,301
+21812,Self Help Book Plus,Books,99.0,Brand D,356
+21813,Keyboard,Electronics,270.4,Brand D,28
+21814,Children's Book Classic,Books,99.0,Generic,295
+21815,Moisturizer Premium,Beauty,99.0,Brand E,29
+21816,Bedsheet,Home & Kitchen,99.0,Brand B,384
+21817,Sneakers,Fashion,99.0,Brand C,386
+21818,Jacket,Fashion,99.0,Generic,211
+21819,Fiction Book Plus,Books,102.01,Brand E,422
+21820,Monitor Pro,Electronics,441.04,Brand E,440
+21821,Laptop Pro,Electronics,129.07,Brand C,488
+21822,Water Bottle Pro,Home & Kitchen,147.38,Brand B,354
+21823,Shampoo Classic,Beauty,99.0,Brand B,49
+21824,Bedsheet Pro,Home & Kitchen,99.0,Brand C,462
+21825,Shampoo Premium,Beauty,99.0,Brand B,216
+21826,Mixer Grinder Classic,Home & Kitchen,99.0,Brand C,316
+21827,T-Shirt Basic,Fashion,99.0,Brand E,208
+21828,Handbag Classic,Fashion,99.0,Brand D,489
+21829,Monitor Premium,Electronics,128.83,Generic,91
+21830,Smartphone Pro,Electronics,149.11,Brand A,122
+21831,Storage Box Pro,Home & Kitchen,353.46,Brand C,232
+21832,Self Help Book Premium,Books,99.0,Brand A,134
+21833,Storage Box Plus,Home & Kitchen,99.0,Brand B,21
+21834,Mouse,Electronics,99.0,Generic,18
+21835,Desk Lamp Pro,Home & Kitchen,99.0,Generic,271
+21836,Smartwatch Premium,Electronics,147.23,Generic,499
+21837,Storage Box Pro,Home & Kitchen,99.0,Generic,263
+21838,Yoga Mat Pro,Sports,99.0,Brand A,213
+21839,Smartwatch Pro,Electronics,102.67,Brand B,100
+21840,Mouse Basic,Electronics,113.85,Brand C,383
+21841,Mixer Grinder Classic,Home & Kitchen,99.0,Generic,427
+21842,Jeans Classic,Fashion,99.0,Generic,171
+21843,Water Bottle Classic,Home & Kitchen,99.0,Brand B,42
+21844,Face Wash Basic,Beauty,99.0,Brand A,22
+21845,Self Help Book Classic,Books,122.41,Brand D,432
+21846,Monitor,Electronics,99.0,Brand E,329
+21847,Self Help Book Premium,Books,175.55,Brand D,61
+21848,Smartwatch Basic,Electronics,130.8,Brand C,17
+21849,Sneakers Plus,Fashion,99.0,Brand E,45
+21850,Desk Lamp Basic,Home & Kitchen,99.0,Brand E,167
+21851,Storage Box Basic,Home & Kitchen,99.0,Brand E,254
+21852,Fiction Book Basic,Books,99.0,Brand B,491
+21853,Sneakers Premium,Fashion,99.0,Brand A,315
+21854,Sneakers Premium,Fashion,99.0,Brand B,339
+21855,Jacket Plus,Fashion,99.0,Brand E,283
+21856,Mixer Grinder Premium,Home & Kitchen,161.59,Brand A,18
+21857,Face Wash,Beauty,99.0,Generic,340
+21858,Dumbbells,Sports,99.0,Brand B,322
+21859,Mixer Grinder Basic,Home & Kitchen,143.53,Generic,252
+21860,Sunglasses Classic,Fashion,99.0,Generic,402
+21861,Dress Plus,Fashion,99.0,Brand E,189
+21862,Cricket Bat Classic,Sports,99.0,Brand C,52
+21863,Face Wash Plus,Beauty,99.0,Brand E,126
+21864,Hair Serum Classic,Beauty,99.0,Brand C,333
+21865,Mixer Grinder Premium,Home & Kitchen,99.0,Generic,136
+21866,Moisturizer Pro,Beauty,99.0,Brand D,346
+21867,Mouse Pro,Electronics,100.16,Brand B,381
+21868,Mouse,Electronics,501.21,Brand A,293
+21869,Storage Box,Home & Kitchen,99.74,Brand A,461
+21870,Exam Guide Pro,Books,99.0,Brand D,149
+21871,Yoga Mat,Sports,109.96,Brand C,113
+21872,Mixer Grinder Classic,Home & Kitchen,99.0,Brand C,454
+21873,Bedsheet Classic,Home & Kitchen,99.0,Brand B,255
+21874,Cookware Set Premium,Home & Kitchen,99.0,Brand E,466
+21875,Water Bottle Plus,Home & Kitchen,118.04,Brand D,347
+21876,Jeans Classic,Fashion,99.0,Brand E,417
+21877,Handbag Pro,Fashion,99.0,Generic,100
+21878,Bedsheet Pro,Home & Kitchen,99.0,Brand C,55
+21879,Mouse Classic,Electronics,103.43,Brand E,469
+21880,Handbag Basic,Fashion,162.94,Brand B,21
+21881,Smartphone Premium,Electronics,99.0,Brand E,163
+21882,Perfume Pro,Beauty,99.0,Brand A,139
+21883,Running Shoes Plus,Sports,245.18,Brand B,87
+21884,Desk Lamp Plus,Home & Kitchen,99.0,Brand B,294
+21885,Hair Serum Classic,Beauty,99.0,Brand C,236
+21886,Monitor Classic,Electronics,291.84,Generic,386
+21887,Jeans Basic,Fashion,99.0,Brand B,134
+21888,Mouse,Electronics,103.83,Brand A,443
+21889,Jeans Basic,Fashion,99.0,Brand A,122
+21890,Perfume Plus,Beauty,99.0,Brand A,236
+21891,Sunglasses Plus,Fashion,99.0,Brand D,153
+21892,Sneakers Classic,Fashion,99.0,Brand A,298
+21893,Laptop Basic,Electronics,99.0,Brand A,111
+21894,Exam Guide Basic,Books,99.0,Brand E,302
+21895,Jacket Pro,Fashion,99.0,Generic,352
+21896,Bedsheet,Home & Kitchen,99.0,Brand E,375
+21897,Yoga Mat,Sports,99.0,Brand D,405
+21898,Monitor Premium,Electronics,158.29,Brand C,228
+21899,Dress Plus,Fashion,99.0,Generic,49
+21900,Handbag Classic,Fashion,99.0,Brand D,289
+21901,Perfume Basic,Beauty,99.0,Brand C,183
+21902,Smartwatch Plus,Electronics,99.0,Generic,239
+21903,Headphones,Electronics,245.75,Brand C,317
+21904,Monitor Pro,Electronics,208.96,Generic,123
+21905,Exam Guide Basic,Books,99.0,Generic,190
+21906,Cookware Set Plus,Home & Kitchen,99.0,Brand A,27
+21907,Self Help Book Premium,Books,99.0,Brand D,367
+21908,Exam Guide Plus,Books,99.0,Brand B,51
+21909,Cricket Bat Classic,Sports,99.0,Brand E,244
+21910,Dress Premium,Fashion,99.0,Brand E,300
+21911,Power Bank,Electronics,234.72,Brand D,307
+21912,Fiction Book Premium,Books,99.0,Brand E,252
+21913,Sunglasses Basic,Fashion,99.0,Brand A,479
+21914,Perfume,Beauty,99.0,Brand E,178
+21915,Sunglasses Pro,Fashion,147.9,Brand D,22
+21916,Mouse Classic,Electronics,189.31,Brand C,38
+21917,Power Bank Premium,Electronics,112.48,Generic,390
+21918,Monitor Classic,Electronics,99.0,Brand B,481
+21919,Cricket Bat Plus,Sports,99.0,Brand C,73
+21920,Headphones Classic,Electronics,99.0,Generic,92
+21921,T-Shirt Premium,Fashion,99.0,Brand A,78
+21922,Laptop Basic,Electronics,103.03,Brand B,398
+21923,Badminton Racket Plus,Sports,99.0,Brand E,82
+21924,Smartwatch,Electronics,158.42,Brand B,165
+21925,Mouse Plus,Electronics,99.0,Brand D,333
+21926,Bedsheet Basic,Home & Kitchen,99.0,Brand B,409
+21927,Bedsheet Plus,Home & Kitchen,99.0,Brand C,421
+21928,T-Shirt Premium,Fashion,99.0,Brand A,174
+21929,Cricket Bat Pro,Sports,248.84,Brand C,379
+21930,Keyboard Plus,Electronics,169.97,Brand E,253
+21931,Monitor Premium,Electronics,136.03,Brand D,95
+21932,Storage Box Premium,Home & Kitchen,99.0,Generic,226
+21933,Cricket Bat Plus,Sports,99.0,Brand D,323
+21934,Running Shoes Premium,Sports,99.0,Brand A,383
+21935,Bedsheet Premium,Home & Kitchen,99.74,Brand C,461
+21936,Perfume,Beauty,99.0,Brand A,48
+21937,Face Wash Premium,Beauty,99.0,Brand E,191
+21938,Smartphone Classic,Electronics,115.2,Brand D,459
+21939,Water Bottle Pro,Home & Kitchen,99.0,Brand A,80
+21940,T-Shirt Basic,Fashion,99.0,Brand D,361
+21941,Exam Guide Classic,Books,109.2,Brand B,120
+21942,Exam Guide Plus,Books,99.0,Brand A,374
+21943,Smartwatch Classic,Electronics,107.04,Brand C,347
+21944,Sneakers Pro,Fashion,99.0,Brand E,112
+21945,Notebook Pro,Books,99.0,Brand C,199
+21946,Sneakers Pro,Fashion,99.0,Brand A,184
+21947,Children's Book Plus,Books,99.0,Brand A,358
+21948,Monitor,Electronics,119.02,Brand E,267
+21949,Power Bank Basic,Electronics,340.05,Brand A,110
+21950,Jeans Classic,Fashion,99.0,Generic,352
+21951,Mixer Grinder,Home & Kitchen,99.0,Brand E,84
+21952,Keyboard Plus,Electronics,251.83,Brand C,284
+21953,Handbag Plus,Fashion,99.0,Brand C,100
+21954,Headphones Classic,Electronics,114.97,Brand A,37
+21955,Mixer Grinder Classic,Home & Kitchen,99.0,Generic,4
+21956,Perfume Classic,Beauty,99.0,Brand D,220
+21957,T-Shirt,Fashion,99.0,Brand C,143
+21958,Smartphone Pro,Electronics,114.09,Brand E,304
+21959,Storage Box Plus,Home & Kitchen,99.0,Brand D,492
+21960,Jacket Pro,Fashion,99.0,Generic,440
+21961,Keyboard Classic,Electronics,117.09,Brand D,173
+21962,Keyboard Classic,Electronics,214.64,Brand A,76
+21963,Notebook Pro,Books,99.0,Brand B,150
+21964,Mouse Basic,Electronics,437.99,Brand A,25
+21965,Running Shoes Plus,Sports,99.0,Brand D,411
+21966,Hair Serum,Beauty,99.0,Brand C,24
+21967,Moisturizer Premium,Beauty,99.0,Brand B,468
+21968,Shampoo Pro,Beauty,116.75,Brand B,0
+21969,Handbag Plus,Fashion,99.0,Generic,104
+21970,Sunscreen Premium,Beauty,99.0,Brand A,209
+21971,Storage Box Basic,Home & Kitchen,99.0,Brand E,97
+21972,Cookware Set,Home & Kitchen,99.0,Brand C,336
+21973,Perfume,Beauty,99.0,Brand C,92
+21974,Headphones Basic,Electronics,99.0,Brand D,307
+21975,Smartwatch Premium,Electronics,99.0,Brand D,342
+21976,Moisturizer Classic,Beauty,99.0,Brand E,307
+21977,Yoga Mat Premium,Sports,99.0,Brand C,165
+21978,Sunscreen Plus,Beauty,99.0,Brand A,460
+21979,Sneakers Basic,Fashion,158.91,Brand E,156
+21980,Mixer Grinder Plus,Home & Kitchen,99.0,Brand E,79
+21981,Power Bank Pro,Electronics,285.25,Brand B,492
+21982,Handbag Plus,Fashion,106.08,Brand C,210
+21983,Running Shoes Basic,Sports,99.0,Brand C,117
+21984,Hair Serum Classic,Beauty,99.0,Brand B,263
+21985,Sunscreen,Beauty,186.75,Generic,27
+21986,Mixer Grinder Plus,Home & Kitchen,99.0,Brand D,384
+21987,Keyboard Pro,Electronics,182.25,Brand C,363
+21988,Cookware Set,Home & Kitchen,99.0,Brand C,329
+21989,Cookware Set Classic,Home & Kitchen,99.0,Brand D,186
+21990,Smartphone Premium,Electronics,327.88,Brand C,334
+21991,Running Shoes Plus,Sports,99.0,Generic,29
+21992,Power Bank Plus,Electronics,116.71,Brand B,472
+21993,Sunglasses,Fashion,99.0,Generic,270
+21994,Bedsheet Pro,Home & Kitchen,99.0,Brand D,332
+21995,Children's Book Premium,Books,190.61,Brand A,393
+21996,Storage Box Classic,Home & Kitchen,99.0,Brand C,252
+21997,Handbag Premium,Fashion,99.0,Brand A,143
+21998,Bedsheet,Home & Kitchen,99.0,Brand A,495
+21999,Self Help Book Pro,Books,116.56,Brand A,323
+22000,Yoga Mat Pro,Sports,169.49,Generic,65
