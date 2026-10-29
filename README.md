@@ -19,8 +19,8 @@ The SQL script creates six tables: `customers`, `products`, `orders`, `payments`
 
 **Grain matters:** `orders` is one row per order, while `order_items` may contain multiple rows per order. Use `orders.total_payable` for order-level revenue and `order_items.line_total` for product/category revenue. Avoid summing order-level revenue after joining to multiple order-item rows.
 
-## Regional finding
-**Reported project finding:** Andhra Pradesh was identified during the project analysis as the highest-performing state for orders and revenue. The SQL script includes state-level revenue/order queries and category analyses for Andhra Pradesh and Telangana. The SQL file contains the queries but not the result grids, so insert the exact AP order and revenue figures from the final query outputs before publishing.
+## Regional Analysis
+**Reported project finding:** This analysis compares order volume, revenue, and product category performance across Andhra Pradesh and Telangana using SQL. Exact order counts and revenue figures will be added after validating the final query outputs.
 
 For the AP/Telangana category query, use `COUNT(DISTINCT o.order_id)` if the metric is unique orders; a direct `COUNT(o.order_id)` after joining `order_items` can count an order multiple times.
 
@@ -38,20 +38,46 @@ For the AP/Telangana category query, use `COUNT(DISTINCT o.order_id)` if the met
 The report includes KPI cards for Total Revenue, Total Orders, AOV, Delivered Rate, Cancellation Rate, and Return Rate; Year, Category, and State slicers; yearly revenue trend; order-status distribution; revenue by category, gender, state, payment status, and payment method; and a Top 10 Products table.
 
 Add a clean exported dashboard image named `dashboard_preview.png`, then uncomment:
-<!-- ![Power BI dashboard](dashboard_preview.png) -->
+<![Power BI dashboard](outputs/output.png) -->
 
-## Previously reported metrics — validate before publication
-| Metric | Reported value |
-|---|---:|
-| Total orders | 60,000 |
-| Total order revenue | Approximately 24.09M |
-| AOV | Approximately 401.45 |
-| Delivered orders | 41,960 (approximately 69.93%) |
-| Cancelled orders | 3,689 (approximately 6.15%) |
-| Returned orders | 2,374 (approximately 3.96%) |
-| Delivered revenue | Approximately 16.86M (about 70.01% of reported order revenue) |
-| Payment success rate | 82.48%; validate denominator |
-| Hyderabad Electronics revenue | 618,000 reported; verify query grain/definition |
+Key Business Metrics and Regional Analysis
+
+Metric| Reported Value
+Total Orders| 60,000
+Total Order Revenue| Approximately 24.09M
+Average Order Value (AOV)| Approximately 401.45
+Delivered Orders| 41,960 (69.93%)
+Cancelled Orders| 3,689 (6.15%)
+Returned Orders| 2,374 (3.96%)
+Delivered Revenue| Approximately 16.86M (70.01% of reported order revenue)
+Payment Success Rate| 82.48% (denominator requires validation)
+
+Andhra Pradesh — Category Performance
+
+Category| Orders Placed (Reported)| Total Sales
+Electronics| 11,767| 3,431,342.63
+Fashion| 9,057| 1,456,925.26
+Home & Kitchen| 8,035| 1,306,459.33
+Beauty| 5,444| 885,545.79
+Books| 4,524| 719,346.70
+Sports| 3,599| 580,081.95
+
+Telangana — Category Performance
+
+Category| Orders Placed (Reported)| Total Sales
+Electronics| 3,808| 1,087,314.18
+Fashion| 2,968| 469,954.57
+Home & Kitchen| 2,685| 427,613.33
+Beauty| 1,822| 287,600.90
+Books| 1,441| 233,842.10
+Sports| 1,152| 186,181.08
+
+Additional Regional Finding
+
+Metric| Reported Value
+Hyderabad Electronics Revenue| 618,000 (requires validation against the final SQL output)
+
+Validation note: Regional order counts are reproduced from the current SQL result screenshots. Verify them using "COUNT(DISTINCT o.order_id)" if the query joins orders to multiple order-item rows. Confirm the sales calculation and payment success rate denominator before presenting these figures as final business results.
 
 Discount AOV values previously reported were 443.12 at 0%, 426.85 at 5%, 405.09 at 10%, 385.31 at 15%, and 365.43 at 20%. This is an association, not proof of causation.
 
@@ -78,10 +104,21 @@ Before publishing, check:
 ```text
 ecommerce-sales-customer-analytics/
 ├── README.md
-├── ecommerce_analysis.sql
-├── Ecommerce_Sales_Customer_Analytics_Corrected_Insights.pdf
-├── ecommerce_dashboard.pbix
-└── dashboard_preview.png
+├── data/
+│   ├── customers.csv
+│   ├── orders.csv
+│   ├── order_items.csv
+│   ├── products.csv
+│   ├── payments.csv
+│   └── returns.csv
+├── sql/
+│   └── ecommerce_analysis.sql
+├── dashboard/
+│   └── dashboard.pbix
+├── notebooks/
+│   └── dataquality.ipynb
+└── outputs/
+    └── output.png
 ```
 
 ## Data privacy
