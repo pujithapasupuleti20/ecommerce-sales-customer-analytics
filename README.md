@@ -51,7 +51,7 @@ Average Order Value (AOV)| Approximately 401.45
 Delivered Orders| 41,960 (69.93%)
 Cancelled Orders| 3,689 (6.15%)
 Returned Orders| 2,374 (3.96%)
-Delivered Revenue| Approximately 16.86M (70.01% of reported order revenue)
+Delivered Revenue| Approximately 16.86M (70.01%)
 Payment Success Rate| 82.48% (denominator requires validation)
 
 Andhra Pradesh — Category Performance
